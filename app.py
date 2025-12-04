@@ -394,7 +394,7 @@ with tabs[3]:
             else:
                 time_slot = None
             source = st.selectbox("Booking Source*", ["Walk-in","Phone","Instagram","WhatsApp","Website"])
-        submit = st.form_submit_button("✅ Confirm Booking")
+        submit = st.form_submit_button("Confirm Booking")
         if submit:
             if not all([customer_name, phone, time_slot]):
                 st.error("Please fill required fields")
@@ -488,7 +488,7 @@ with tabs[4]:
         kpi_box("New This Month", f"{kpis['new_this_month']}")
 
     st.divider()
-    st.markdown("👥 Staff Directory")
+    st.markdown("Staff Directory")
     col1, col2, col3, col4 = st.columns(4)
     with col1:
         search_name = st.text_input("Search by Name", key="staff_search")
@@ -509,7 +509,7 @@ with tabs[4]:
         st.info("No staff data available")
 
     st.divider()
-    st.markdown("📊 Attendance Statistics")
+    st.markdown(" Attendance Statistics")
     if not attendance_df.empty:
         attendance_stats = query.get_staff_attendance_stats(attendance_df)
         if not attendance_stats.empty:
@@ -522,7 +522,7 @@ with tabs[4]:
         st.info("No attendance records found")
 
     st.divider()
-    st.markdown("🗓️ Leave Management")
+    st.markdown("Leave Management")
     if not leave_df.empty:
         upcoming_leaves = query.get_upcoming_leaves(leave_df)
         if not upcoming_leaves.empty:
@@ -536,7 +536,7 @@ with tabs[4]:
         st.info("No leave records")
 
     st.divider()
-    st.markdown("➕ Add New Staff")
+    st.markdown("Add New Staff")
     with st.form("add_staff_form"):
         col1, col2 = st.columns(2)
         with col1:
