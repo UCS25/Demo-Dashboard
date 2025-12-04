@@ -1,0 +1,153 @@
+Appointment ID,Name,Phone Number,Service Booked,Preferred Employee,Appointment Date,Time Slot,Duration,Status,Source
+APT1000,Divya Rao,918221053161,Facial,Kavita,2025-11-06 00:00:00,17:30,90,Cancelled,Website
+APT1001,Sneha Gupta,917742585917,Threading,Sneha,2025-12-02 00:00:00,11:00,45,Completed,Website
+APT1002,Priya Patel,911649133424,Bleaching,Sneha,2025-11-12 00:00:00,11:00,90,Cancelled,Instagram
+APT1003,Divya Rao,910603202032,Hair Cut,Ritu,2025-12-01 00:00:00,14:00,60,Completed,WhatsApp
+APT1004,Divya Rao,916737948714,Full Body Massage,Sneha,2025-12-04 00:00:00,14:00,60,Cancelled,Instagram
+APT1005,Priya Patel,915841560821,Pedicure,Priya,2025-11-25 00:00:00,16:30,90,Completed,Website
+APT1006,Ritu Mehta,914768182683,De-tan,Sneha,2025-12-19 00:00:00,13:00,45,Confirmed,Instagram
+APT1007,Divya Rao,918808583825,De-tan,Ritu,2025-12-07 00:00:00,18:00,30,Confirmed,Phone
+APT1008,Kavita Reddy,914064686775,De-tan,Priya,2025-12-27 00:00:00,11:30,60,Confirmed,Instagram
+APT1009,Kavita Reddy,919910622723,Hair Cut,Kavita,2025-12-19 00:00:00,17:30,45,Pending,Website
+APT1010,Priya Patel,913426192372,Manicure,Priya,2025-11-16 00:00:00,12:30,60,Completed,Website
+APT1011,Divya Rao,917374189721,Bleaching,Kavita,2025-11-23 00:00:00,17:00,60,Completed,Instagram
+APT1012,Pooja Desai,919274381199,Bleaching,Kavita,2025-11-11 00:00:00,19:30,45,Cancelled,WhatsApp
+APT1013,Sneha Gupta,914485645101,Threading,Sneha,2025-11-07 00:00:00,19:00,45,Cancelled,Website
+APT1014,Priya Patel,917899698609,Facial,Priya,2025-12-01 00:00:00,19:30,30,Completed,Phone
+APT1015,Pooja Desai,910577980660,Pedicure,Anjali,2025-11-27 00:00:00,18:30,45,Completed,Walk-in
+APT1016,Simran Kaur,914555347057,Manicure,Ritu,2025-11-22 00:00:00,15:00,45,Completed,Website
+APT1017,Ritu Mehta,912715598354,Facial,Anjali,2025-12-15 00:00:00,14:30,30,Pending,Website
+APT1018,Pooja Desai,913475575225,Waxing,Ritu,2025-12-05 00:00:00,19:00,30,Confirmed,Instagram
+APT1019,Aditi Joshi,918269131196,Manicure,Ritu,2026-01-01 00:00:00,17:30,45,Pending,Instagram
+APT1020,Priya Patel,914991537038,De-tan,Kavita,2025-11-29 00:00:00,11:30,60,Completed,Phone
+APT1021,Kavita Reddy,917320430977,Hair Cut,Sneha,2025-12-27 00:00:00,12:00,45,Pending,Website
+APT1022,Sneha Gupta,915465535851,De-tan,Ritu,2025-12-11 00:00:00,15:30,60,Confirmed,Website
+APT1023,Aditi Joshi,915193583749,Waxing,Kavita,2025-11-12 00:00:00,10:30,90,Cancelled,Website
+APT1024,Anjali Sharma,918780572151,Manicure,Ritu,2025-12-01 00:00:00,10:00,60,Completed,WhatsApp
+APT1025,Kavita Reddy,917484539862,Full Body Massage,Ritu,2025-12-01 00:00:00,11:30,60,Completed,Walk-in
+APT1026,Priya Patel,919186233922,Waxing,Anjali,2025-12-19 00:00:00,14:00,90,Confirmed,Walk-in
+APT1027,Pooja Desai,916725214526,Manicure,Sneha,2025-11-10 00:00:00,15:30,90,Completed,Instagram
+APT1028,Ritu Mehta,911571840908,Waxing,Sneha,2025-11-29 00:00:00,12:00,60,Completed,Walk-in
+APT1029,Ritu Mehta,916409951239,Threading,Anjali,2025-12-07 00:00:00,09:00,45,Confirmed,Walk-in
+APT1030,Divya Rao,915927282709,Waxing,Anjali,2025-12-29 00:00:00,19:00,30,Pending,Walk-in
+APT1031,Divya Rao,918217392957,Full Body Massage,Priya,2025-11-26 00:00:00,19:00,90,Cancelled,Website
+APT1032,Ritu Mehta,912373605079,Facial,Ritu,2025-11-08 00:00:00,14:00,30,Cancelled,Website
+APT1033,Aditi Joshi,913452734666,Hair Cut,Priya,2025-12-10 00:00:00,17:30,30,Pending,WhatsApp
+APT1034,Divya Rao,916474080314,Full Body Massage,Priya,2025-11-10 00:00:00,14:30,45,Cancelled,Website
+APT1035,Pooja Desai,913580688285,Waxing,Kavita,2025-11-05 00:00:00,09:30,45,Completed,Phone
+APT1036,Priya Patel,913739900631,Manicure,Anjali,2025-12-31 00:00:00,12:30,30,Confirmed,Phone
+APT1037,Pooja Desai,910229394694,Pedicure,Priya,2025-11-28 00:00:00,12:30,60,Cancelled,WhatsApp
+APT1038,Sneha Gupta,913749060723,Facial,Sneha,2025-12-26 00:00:00,15:30,30,Confirmed,WhatsApp
+APT1039,Neha Singh,914648449411,Hair Cut,Ritu,2025-11-08 00:00:00,11:30,45,Completed,WhatsApp
+APT1040,Simran Kaur,917113062113,Hair Cut,Sneha,2025-11-16 00:00:00,11:00,60,Cancelled,WhatsApp
+APT1041,Kavita Reddy,915090254257,Pedicure,Kavita,2025-12-12 00:00:00,09:00,30,Pending,Phone
+APT1042,Kavita Reddy,912357071398,Manicure,Ritu,2026-01-03 00:00:00,13:00,45,Confirmed,Instagram
+APT1043,Pooja Desai,918809255021,Pedicure,Priya,2025-11-07 00:00:00,10:00,30,Cancelled,Website
+APT1044,Kavita Reddy,910981079649,Hair Cut,Kavita,2025-11-07 00:00:00,15:00,90,Completed,Website
+APT1045,Simran Kaur,912785324264,De-tan,Kavita,2025-11-20 00:00:00,14:30,60,Completed,Instagram
+APT1046,Pooja Desai,918362536667,Threading,Kavita,2025-11-13 00:00:00,09:30,90,Cancelled,Instagram
+APT1047,Neha Singh,918333393957,Full Body Massage,Anjali,2025-11-25 00:00:00,14:30,90,Cancelled,Phone
+APT1048,Priya Patel,918749603358,De-tan,Sneha,2025-11-29 00:00:00,11:30,90,Cancelled,WhatsApp
+APT1049,Divya Rao,912492693265,Threading,Kavita,2025-11-05 00:00:00,12:30,45,Completed,Instagram
+APT1050,Priya Patel,911100051553,De-tan,Priya,2025-12-13 00:00:00,18:00,45,Pending,Instagram
+APT1051,Simran Kaur,915244182226,Facial,Ritu,2025-12-13 00:00:00,14:30,90,Confirmed,Website
+APT1052,Kavita Reddy,911271026767,De-tan,Kavita,2025-12-14 00:00:00,16:30,30,Pending,Website
+APT1053,Anjali Sharma,917955151229,Manicure,Priya,2025-12-10 00:00:00,11:30,90,Confirmed,Phone
+APT1054,Priya Patel,915970996254,Pedicure,Kavita,2025-12-14 00:00:00,14:30,60,Confirmed,Instagram
+APT1055,Kavita Reddy,914476504715,Full Body Massage,Ritu,2025-12-31 00:00:00,11:00,30,Confirmed,Walk-in
+APT1056,Sneha Gupta,916376604655,Full Body Massage,Anjali,2025-12-21 00:00:00,18:00,90,Pending,Phone
+APT1057,Aditi Joshi,913744171581,Waxing,Sneha,2026-01-03 00:00:00,14:30,45,Confirmed,Walk-in
+APT1058,Neha Singh,919311005912,Threading,Ritu,2025-11-15 00:00:00,14:00,60,Completed,Walk-in
+APT1059,Priya Patel,912110633016,Bleaching,Sneha,2025-11-07 00:00:00,11:00,45,Cancelled,WhatsApp
+APT1060,Sneha Gupta,919072801234,De-tan,Priya,2025-12-12 00:00:00,11:30,45,Confirmed,Phone
+APT1061,Neha Singh,916949684364,Bleaching,Anjali,2025-11-15 00:00:00,14:00,45,Completed,Instagram
+APT1062,Anjali Sharma,911750961701,Bleaching,Ritu,2025-12-22 00:00:00,11:00,60,Confirmed,Instagram
+APT1063,Ritu Mehta,917574758339,De-tan,Kavita,2025-12-20 00:00:00,14:30,30,Pending,WhatsApp
+APT1064,Pooja Desai,917772266025,Hair Cut,Anjali,2025-12-30 00:00:00,16:30,45,Pending,Walk-in
+APT1065,Neha Singh,919231067245,Pedicure,Kavita,2025-12-01 00:00:00,19:00,30,Cancelled,Phone
+APT1066,Kavita Reddy,913797662705,Facial,Kavita,2025-11-23 00:00:00,17:30,30,Cancelled,Website
+APT1067,Aditi Joshi,917367042549,Hair Cut,Ritu,2025-11-22 00:00:00,11:00,30,Completed,Instagram
+APT1068,Ritu Mehta,919710756335,Pedicure,Anjali,2025-11-25 00:00:00,14:00,60,Cancelled,Website
+APT1069,Kavita Reddy,912593993379,Threading,Ritu,2025-11-25 00:00:00,18:30,30,Cancelled,Walk-in
+APT1070,Priya Patel,918779417634,De-tan,Kavita,2025-11-28 00:00:00,11:30,60,Completed,Phone
+APT1071,Ritu Mehta,915978245759,Full Body Massage,Ritu,2025-11-18 00:00:00,19:00,45,Completed,Website
+APT1072,Kavita Reddy,918843660443,De-tan,Priya,2025-11-11 00:00:00,13:00,60,Completed,WhatsApp
+APT1073,Neha Singh,917682975147,Manicure,Anjali,2025-11-09 00:00:00,14:30,45,Cancelled,Phone
+APT1074,Anjali Sharma,911058752568,Waxing,Kavita,2025-12-11 00:00:00,11:30,90,Pending,Phone
+APT1075,Sneha Gupta,915990802711,De-tan,Ritu,2025-11-24 00:00:00,18:00,45,Completed,Phone
+APT1076,Ritu Mehta,915516517680,Full Body Massage,Sneha,2026-01-03 00:00:00,12:00,90,Pending,Website
+APT1077,Simran Kaur,912143308003,Threading,Sneha,2025-12-26 00:00:00,10:00,30,Confirmed,Phone
+APT1078,Aditi Joshi,915566084706,Full Body Massage,Sneha,2026-01-03 00:00:00,11:00,30,Confirmed,Website
+APT1079,Divya Rao,917051958263,De-tan,Anjali,2025-11-06 00:00:00,12:00,30,Cancelled,Website
+APT1080,Neha Singh,913945354614,Threading,Ritu,2025-11-27 00:00:00,17:30,30,Cancelled,Website
+APT1081,Neha Singh,911061339439,Manicure,Priya,2025-12-23 00:00:00,15:00,60,Pending,Phone
+APT1082,Aditi Joshi,910403253765,Threading,Kavita,2025-12-10 00:00:00,13:00,90,Confirmed,WhatsApp
+APT1083,Kavita Reddy,911910090040,Manicure,Ritu,2025-12-09 00:00:00,18:30,90,Pending,Phone
+APT1084,Kavita Reddy,913651460401,Manicure,Kavita,2025-11-10 00:00:00,09:30,45,Cancelled,Phone
+APT1085,Simran Kaur,912011379844,Waxing,Sneha,2025-11-11 00:00:00,19:00,90,Completed,Phone
+APT1086,Anjali Sharma,910767620901,Manicure,Sneha,2025-11-08 00:00:00,15:30,60,Cancelled,Instagram
+APT1087,Kavita Reddy,913700968730,Manicure,Ritu,2025-11-05 00:00:00,19:30,60,Completed,Instagram
+APT1088,Ritu Mehta,915882556296,Bleaching,Anjali,2025-12-03 00:00:00,16:00,90,Cancelled,Phone
+APT1089,Aditi Joshi,916561942557,Threading,Anjali,2025-12-26 00:00:00,19:30,45,Confirmed,Website
+APT1090,Divya Rao,915829236161,Full Body Massage,Ritu,2026-01-01 00:00:00,19:00,30,Confirmed,Walk-in
+APT1091,Kavita Reddy,915715586863,Bleaching,Sneha,2025-11-20 00:00:00,17:00,90,Completed,WhatsApp
+APT1092,Aditi Joshi,911721436438,Facial,Priya,2025-11-13 00:00:00,12:00,45,Completed,Walk-in
+APT1093,Neha Singh,911147165609,Manicure,Anjali,2025-11-22 00:00:00,10:00,60,Cancelled,Phone
+APT1094,Divya Rao,919070755047,Hair Cut,Ritu,2025-11-23 00:00:00,15:30,30,Cancelled,Website
+APT1095,Anjali Sharma,916071748113,Facial,Anjali,2025-12-30 00:00:00,14:30,90,Pending,Phone
+APT1096,Ritu Mehta,914873961029,Waxing,Ritu,2025-12-12 00:00:00,16:00,90,Confirmed,Phone
+APT1097,Aditi Joshi,910491872742,Waxing,Kavita,2025-12-03 00:00:00,13:30,60,Cancelled,Walk-in
+APT1098,Kavita Reddy,917730626042,Pedicure,Sneha,2025-12-17 00:00:00,11:00,60,Pending,WhatsApp
+APT1099,Neha Singh,912299077560,Full Body Massage,Kavita,2025-12-25 00:00:00,10:00,60,Confirmed,WhatsApp
+APT1100,Aditi Joshi,916111457683,De-tan,Sneha,2025-11-06 00:00:00,13:30,30,Completed,Walk-in
+APT1101,Simran Kaur,918584712961,Full Body Massage,Sneha,2025-12-10 00:00:00,11:00,30,Confirmed,Phone
+APT1102,Anjali Sharma,915080184980,Manicure,Sneha,2025-11-23 00:00:00,11:30,45,Cancelled,WhatsApp
+APT1103,Simran Kaur,917731268812,De-tan,Kavita,2025-12-25 00:00:00,12:00,45,Confirmed,Website
+APT1104,Kavita Reddy,916534606056,Waxing,Kavita,2025-11-08 00:00:00,18:00,45,Cancelled,WhatsApp
+APT1105,Simran Kaur,919862398471,Hair Cut,Priya,2025-12-12 00:00:00,12:00,30,Pending,Website
+APT1106,Ritu Mehta,914647548954,Threading,Ritu,2025-11-09 00:00:00,11:00,90,Cancelled,Website
+APT1107,Simran Kaur,915175889144,Manicure,Anjali,2026-01-02 00:00:00,19:00,60,Confirmed,Instagram
+APT1108,Ritu Mehta,914358644963,De-tan,Anjali,2026-01-01 00:00:00,12:00,60,Confirmed,Website
+APT1109,Simran Kaur,919821433952,Threading,Kavita,2025-12-09 00:00:00,14:00,60,Confirmed,WhatsApp
+APT1110,Aditi Joshi,915249141686,Waxing,Anjali,2025-12-19 00:00:00,13:30,30,Confirmed,WhatsApp
+APT1111,Aditi Joshi,919634067917,Hair Cut,Priya,2025-12-03 00:00:00,17:30,90,Cancelled,Phone
+APT1112,Anjali Sharma,910141884216,Pedicure,Priya,2025-11-15 00:00:00,10:30,30,Completed,Walk-in
+APT1113,Sneha Gupta,916333999485,Pedicure,Ritu,2025-11-25 00:00:00,18:30,45,Completed,Website
+APT1114,Pooja Desai,913890219947,Facial,Kavita,2025-11-24 00:00:00,12:00,30,Completed,Phone
+APT1115,Neha Singh,913410346996,Threading,Priya,2025-11-19 00:00:00,16:00,45,Completed,Walk-in
+APT1116,Neha Singh,916960843768,Bleaching,Kavita,2025-11-30 00:00:00,16:30,60,Completed,Website
+APT1117,Divya Rao,913521962633,Bleaching,Anjali,2025-12-13 00:00:00,15:30,60,Pending,Phone
+APT1118,Pooja Desai,919709317069,Bleaching,Priya,2025-12-19 00:00:00,13:00,60,Pending,WhatsApp
+APT1119,Priya Patel,916453454722,Pedicure,Kavita,2025-12-01 00:00:00,16:30,45,Completed,Instagram
+APT1120,Neha Singh,911980418472,Manicure,Anjali,2025-11-07 00:00:00,12:00,45,Cancelled,Phone
+APT1121,Neha Singh,918131909248,Threading,Sneha,2025-11-18 00:00:00,15:30,90,Completed,Walk-in
+APT1122,Priya Patel,911428178522,Full Body Massage,Priya,2025-12-25 00:00:00,12:00,45,Confirmed,Instagram
+APT1123,Aditi Joshi,910880622072,De-tan,Ritu,2025-12-28 00:00:00,11:30,45,Pending,Instagram
+APT1124,Neha Singh,911329016204,Threading,Ritu,2025-12-03 00:00:00,12:30,90,Cancelled,Website
+APT1125,Aditi Joshi,915996486287,De-tan,Priya,2025-12-20 00:00:00,15:30,30,Confirmed,Website
+APT1126,Divya Rao,916664505730,Pedicure,Kavita,2025-11-27 00:00:00,13:00,90,Completed,Website
+APT1127,Pooja Desai,913203747677,Bleaching,Sneha,2025-12-24 00:00:00,11:30,45,Pending,WhatsApp
+APT1128,Priya Patel,914505766194,Bleaching,Kavita,2025-11-07 00:00:00,12:00,90,Completed,Walk-in
+APT1129,Sneha Gupta,918201284008,Pedicure,Kavita,2025-11-26 00:00:00,14:00,60,Completed,WhatsApp
+APT1130,Ritu Mehta,919545089177,Hair Cut,Sneha,2025-11-25 00:00:00,18:30,30,Completed,WhatsApp
+APT1131,Sneha Gupta,912231964630,Waxing,Sneha,2025-11-25 00:00:00,19:30,60,Completed,Phone
+APT1132,Pooja Desai,912689430120,Manicure,Sneha,2025-11-30 00:00:00,18:00,90,Completed,WhatsApp
+APT1133,Priya Patel,911759574988,Bleaching,Ritu,2026-01-01 00:00:00,11:30,60,Confirmed,Website
+APT1134,Kavita Reddy,910674584760,Manicure,Sneha,2025-12-17 00:00:00,13:00,60,Confirmed,Website
+APT1135,Simran Kaur,912188566695,Manicure,Sneha,2025-11-18 00:00:00,12:00,30,Completed,Website
+APT1136,Ritu Mehta,910666267055,Facial,Kavita,2025-12-04 00:00:00,19:00,60,Completed,WhatsApp
+APT1137,Pooja Desai,916343925295,Hair Cut,Priya,2026-01-02 00:00:00,15:00,30,Confirmed,Walk-in
+APT1138,Aditi Joshi,916712007202,Manicure,Ritu,2025-12-24 00:00:00,09:00,60,Pending,Walk-in
+APT1139,Ritu Mehta,911091090326,Threading,Ritu,2025-11-06 00:00:00,11:30,30,Cancelled,Instagram
+APT1140,Divya Rao,914217942817,Pedicure,Kavita,2025-12-13 00:00:00,17:00,60,Confirmed,Instagram
+APT1141,Simran Kaur,915844663453,Pedicure,Sneha,2025-12-16 00:00:00,11:30,90,Confirmed,Walk-in
+APT1142,Neha Singh,911722145593,Threading,Priya,2025-11-09 00:00:00,09:00,90,Cancelled,Website
+APT1143,Kavita Reddy,917052635100,Manicure,Kavita,2025-12-20 00:00:00,18:30,90,Confirmed,WhatsApp
+APT1144,Simran Kaur,912565920246,Facial,Sneha,2025-12-16 00:00:00,15:30,90,Pending,Walk-in
+APT1145,Aditi Joshi,919743260055,Bleaching,Priya,2025-12-30 00:00:00,11:00,60,Confirmed,WhatsApp
+APT1146,Kavita Reddy,912584868999,Pedicure,Kavita,2025-12-23 00:00:00,17:00,90,Confirmed,Website
+APT1147,Anjali Sharma,914506917679,Pedicure,Kavita,2025-12-09 00:00:00,13:30,60,Confirmed,Instagram
+APT1148,Kavita Reddy,919464083037,Pedicure,Kavita,2025-11-23 00:00:00,19:00,90,Completed,Walk-in
+APT1149,Anjali Sharma,918490793884,Facial,Ritu,2025-11-08 00:00:00,13:30,45,Cancelled,Instagram
+APT1150,cal newport,87644,Hair Cut,Priya,,09:00,30,Confirmed,Walk-in
+APT1151,cal newport,87644,Hair Cut,Priya,2025-12-04,09:00,30,Confirmed,Walk-in

@@ -1,0 +1,201 @@
+Timestamp,DateTime,Client Name,Client Number,Sold by,Product Name,Bill Amount,Payment Mode,Helper
+13/09/2025 21:14:14,13/09/2025 21:14:14,Anjali Sharma,+91 0231429001,Ritu,Himalaya Neem Face Pack,893,Cash,Helper2
+13/07/2025 04:55:14,13/07/2025 04:55:14,Simran Kaur,+91 2457230848,Priya,L'Oreal Hair Serum,291,Cash,Helper3
+04/07/2025 06:03:14,04/07/2025 06:03:14,Pooja Desai,+91 2030366254,Sneha,Plum Body Lotion,987,Cash,
+20/07/2025 22:21:14,20/07/2025 22:21:14,Priya Patel,+91 4519515109,Sneha,Matrix Shampoo,1077,UPI,Helper2
+28/11/2025 03:16:14,28/11/2025 03:16:14,Sneha Gupta,+91 9451475410,Sneha,Plum Body Lotion,500,UPI,Helper2
+15/09/2025 04:53:14,15/09/2025 04:53:14,Simran Kaur,+91 1196421522,Kavita,Garnier Face Wash,853,Wallet,
+09/10/2025 08:33:14,09/10/2025 08:33:14,Ritu Mehta,+91 2366878878,Ritu,Biotique Face Pack,987,Cash,
+20/10/2025 06:56:14,20/10/2025 06:56:14,Kavita Reddy,+91 1350305872,Priya,L'Oreal Hair Serum,915,UPI,Helper2
+22/08/2025 04:16:14,22/08/2025 04:16:14,Pooja Desai,+91 3330212606,Anjali,L'Oreal Hair Serum,417,Cash,
+06/11/2025 23:08:14,06/11/2025 23:08:14,Neha Singh,+91 5213109622,Kavita,Himalaya Neem Face Pack,486,UPI,
+21/09/2025 08:28:14,21/09/2025 08:28:14,Simran Kaur,+91 0412009282,Priya,Revlon Lipstick,1067,Wallet,Helper3
+01/11/2025 05:26:14,01/11/2025 05:26:14,Kavita Reddy,+91 6241862369,Priya,Biotique Face Pack,1003,Card,Helper1
+02/12/2025 04:37:14,02/12/2025 04:37:14,Ritu Mehta,+91 6620563411,Priya,Garnier Face Wash,1435,UPI,Helper1
+08/08/2025 01:17:14,08/08/2025 01:17:14,Priya Patel,+91 1390438303,Anjali,Lakme Face Cream,1367,Cash,
+18/06/2025 21:27:14,18/06/2025 21:27:14,Priya Patel,+91 4054683565,Sneha,Himalaya Neem Face Pack,399,UPI,
+13/10/2025 22:39:14,13/10/2025 22:39:14,Neha Singh,+91 0967904227,Priya,Plum Body Lotion,391,Card,Helper2
+29/11/2025 07:16:14,29/11/2025 07:16:14,Neha Singh,+91 8898572545,Ritu,Revlon Lipstick,281,Wallet,Helper2
+31/07/2025 06:45:14,31/07/2025 06:45:14,Priya Patel,+91 2971024817,Priya,Maybelline Mascara,842,Card,Helper3
+18/07/2025 22:24:14,18/07/2025 22:24:14,Ritu Mehta,+91 5112747472,Priya,Neutrogena Sunscreen,1199,Cash,Helper3
+20/08/2025 03:33:14,20/08/2025 03:33:14,Neha Singh,+91 7589551687,Anjali,Plum Body Lotion,287,Cash,Helper2
+04/12/2025 05:07:14,04/12/2025 05:07:14,Neha Singh,+91 1462961367,Priya,Garnier Face Wash,1154,Wallet,
+04/07/2025 22:18:14,04/07/2025 22:18:14,Priya Patel,+91 6636515597,Sneha,Himalaya Neem Face Pack,1175,Cash,Helper3
+01/10/2025 21:41:14,01/10/2025 21:41:14,Neha Singh,+91 7235909605,Kavita,Maybelline Mascara,637,Cash,Helper2
+13/06/2025 07:34:14,13/06/2025 07:34:14,Sneha Gupta,+91 4212146147,Kavita,Dove Soap,638,UPI,Helper2
+20/06/2025 23:04:14,20/06/2025 23:04:14,Pooja Desai,+91 5423567782,Kavita,Garnier Face Wash,1368,Wallet,Helper1
+29/10/2025 06:19:14,29/10/2025 06:19:14,Priya Patel,+91 9925502727,Anjali,Lakme Face Cream,1032,UPI,Helper1
+30/09/2025 23:47:14,30/09/2025 23:47:14,Simran Kaur,+91 9103368296,Sneha,Garnier Face Wash,629,Card,Helper1
+10/09/2025 02:08:14,10/09/2025 02:08:14,Sneha Gupta,+91 4817766558,Kavita,Dove Soap,887,Cash,Helper2
+03/10/2025 03:30:14,03/10/2025 03:30:14,Neha Singh,+91 8928664649,Priya,Lakme Face Cream,412,Cash,Helper1
+12/11/2025 03:13:14,12/11/2025 03:13:14,Simran Kaur,+91 9817890463,Sneha,Maybelline Mascara,1329,Wallet,Helper1
+28/07/2025 04:14:14,28/07/2025 04:14:14,Ritu Mehta,+91 7660538444,Anjali,Revlon Lipstick,694,Cash,
+15/06/2025 21:08:14,15/06/2025 21:08:14,Neha Singh,+91 5895529638,Kavita,Biotique Face Pack,1462,Wallet,Helper1
+02/11/2025 03:15:14,02/11/2025 03:15:14,Pooja Desai,+91 2658263128,Priya,Plum Body Lotion,1381,Wallet,Helper3
+26/10/2025 23:27:14,26/10/2025 23:27:14,Kavita Reddy,+91 1106092098,Priya,Neutrogena Sunscreen,983,Cash,Helper2
+02/10/2025 07:47:14,02/10/2025 07:47:14,Ritu Mehta,+91 2334383640,Anjali,Lakme Face Cream,494,Cash,Helper1
+06/07/2025 05:06:14,06/07/2025 05:06:14,Priya Patel,+91 1244211753,Kavita,Lakme Face Cream,1205,Cash,
+26/06/2025 04:47:14,26/06/2025 04:47:14,Priya Patel,+91 3665722402,Ritu,Plum Body Lotion,1442,Cash,Helper1
+03/09/2025 02:37:14,03/09/2025 02:37:14,Anjali Sharma,+91 2841390808,Ritu,Matrix Shampoo,642,UPI,Helper1
+01/08/2025 21:27:14,01/08/2025 21:27:14,Neha Singh,+91 3124473158,Anjali,Maybelline Mascara,1215,Wallet,
+27/07/2025 01:18:14,27/07/2025 01:18:14,Kavita Reddy,+91 4619942376,Kavita,Revlon Lipstick,1421,UPI,Helper3
+13/11/2025 22:45:14,13/11/2025 22:45:14,Pooja Desai,+91 6395517208,Anjali,Neutrogena Sunscreen,1039,UPI,Helper3
+16/09/2025 21:14:14,16/09/2025 21:14:14,Neha Singh,+91 5625313552,Anjali,Lakme Face Cream,219,UPI,Helper1
+31/08/2025 00:36:14,31/08/2025 00:36:14,Ritu Mehta,+91 3816493831,Ritu,VLCC Hair Oil,1444,Cash,
+29/11/2025 03:27:14,29/11/2025 03:27:14,Ritu Mehta,+91 3307704611,Kavita,Matrix Shampoo,1431,UPI,
+07/08/2025 06:08:14,07/08/2025 06:08:14,Sneha Gupta,+91 0907426088,Priya,Garnier Face Wash,233,Cash,
+02/07/2025 03:53:14,02/07/2025 03:53:14,Sneha Gupta,+91 4556185790,Kavita,VLCC Hair Oil,1130,Wallet,Helper1
+11/09/2025 06:13:14,11/09/2025 06:13:14,Anjali Sharma,+91 3002156321,Sneha,Himalaya Neem Face Pack,955,Cash,Helper1
+12/08/2025 21:14:14,12/08/2025 21:14:14,Anjali Sharma,+91 4145964229,Kavita,Lakme Face Cream,458,UPI,Helper2
+04/11/2025 03:47:14,04/11/2025 03:47:14,Simran Kaur,+91 1883977457,Sneha,Lakme Face Cream,740,UPI,Helper1
+06/09/2025 06:00:14,06/09/2025 06:00:14,Kavita Reddy,+91 3117030376,Sneha,Maybelline Mascara,414,UPI,Helper2
+06/11/2025 05:39:14,06/11/2025 05:39:14,Ritu Mehta,+91 4728123567,Ritu,Dove Soap,615,Wallet,Helper2
+25/06/2025 01:34:14,25/06/2025 01:34:14,Neha Singh,+91 4912711307,Sneha,VLCC Hair Oil,258,Wallet,
+06/09/2025 01:14:14,06/09/2025 01:14:14,Priya Patel,+91 5632686850,Kavita,VLCC Hair Oil,957,Cash,Helper1
+21/11/2025 03:53:14,21/11/2025 03:53:14,Pooja Desai,+91 3436294897,Ritu,Revlon Lipstick,423,Cash,Helper2
+06/07/2025 00:14:14,06/07/2025 00:14:14,Anjali Sharma,+91 0943181439,Kavita,Revlon Lipstick,1004,Cash,Helper2
+02/12/2025 01:38:14,02/12/2025 01:38:14,Kavita Reddy,+91 2354940128,Ritu,Maybelline Mascara,825,Card,Helper2
+27/08/2025 07:11:14,27/08/2025 07:11:14,Neha Singh,+91 2572076502,Anjali,Lakme Face Cream,549,Cash,Helper3
+07/10/2025 06:07:14,07/10/2025 06:07:14,Simran Kaur,+91 3710094388,Sneha,Matrix Shampoo,392,Cash,Helper3
+01/09/2025 04:38:14,01/09/2025 04:38:14,Ritu Mehta,+91 8474570545,Ritu,Plum Body Lotion,1420,Wallet,Helper1
+16/08/2025 07:40:14,16/08/2025 07:40:14,Anjali Sharma,+91 2632570396,Anjali,Biotique Face Pack,382,Card,
+17/11/2025 22:24:14,17/11/2025 22:24:14,Simran Kaur,+91 8245569644,Sneha,L'Oreal Hair Serum,1386,UPI,Helper1
+26/09/2025 04:43:14,26/09/2025 04:43:14,Ritu Mehta,+91 4107272849,Ritu,Plum Body Lotion,533,UPI,
+19/08/2025 22:58:14,19/08/2025 22:58:14,Sneha Gupta,+91 0703491074,Priya,Revlon Lipstick,921,Cash,Helper1
+10/08/2025 23:29:14,10/08/2025 23:29:14,Sneha Gupta,+91 8821423691,Anjali,Biotique Face Pack,265,Wallet,Helper3
+10/08/2025 07:47:14,10/08/2025 07:47:14,Pooja Desai,+91 6614494296,Anjali,Neutrogena Sunscreen,485,Card,Helper3
+12/07/2025 03:42:14,12/07/2025 03:42:14,Kavita Reddy,+91 4414978266,Priya,Matrix Shampoo,1278,Wallet,Helper3
+14/10/2025 07:52:14,14/10/2025 07:52:14,Ritu Mehta,+91 7567667080,Kavita,Lakme Face Cream,487,UPI,Helper2
+03/11/2025 05:30:14,03/11/2025 05:30:14,Neha Singh,+91 9894062607,Ritu,Maybelline Mascara,311,Cash,Helper1
+16/08/2025 07:13:14,16/08/2025 07:13:14,Ritu Mehta,+91 9149750198,Priya,Himalaya Neem Face Pack,619,Card,
+12/07/2025 01:04:14,12/07/2025 01:04:14,Neha Singh,+91 4407931102,Ritu,Lakme Face Cream,1264,Cash,Helper2
+29/07/2025 22:37:14,29/07/2025 22:37:14,Anjali Sharma,+91 8760146723,Ritu,VLCC Hair Oil,1454,Wallet,Helper1
+25/09/2025 23:47:14,25/09/2025 23:47:14,Anjali Sharma,+91 2232883774,Anjali,Plum Body Lotion,404,Wallet,Helper3
+25/11/2025 01:32:14,25/11/2025 01:32:14,Pooja Desai,+91 1766204719,Kavita,L'Oreal Hair Serum,1388,UPI,Helper1
+20/11/2025 08:04:14,20/11/2025 08:04:14,Simran Kaur,+91 0527740258,Ritu,Biotique Face Pack,914,Wallet,Helper1
+22/07/2025 07:16:14,22/07/2025 07:16:14,Ritu Mehta,+91 9572446176,Kavita,Neutrogena Sunscreen,569,UPI,Helper2
+03/12/2025 02:44:14,03/12/2025 02:44:14,Ritu Mehta,+91 9961002311,Kavita,Plum Body Lotion,1175,UPI,Helper2
+06/08/2025 23:04:14,06/08/2025 23:04:14,Neha Singh,+91 6610941017,Anjali,Neutrogena Sunscreen,1492,Cash,Helper2
+28/08/2025 22:51:14,28/08/2025 22:51:14,Simran Kaur,+91 6298334774,Sneha,Biotique Face Pack,531,Wallet,Helper2
+30/06/2025 06:08:14,30/06/2025 06:08:14,Priya Patel,+91 3020569815,Sneha,Plum Body Lotion,1281,Wallet,Helper2
+31/07/2025 06:59:14,31/07/2025 06:59:14,Simran Kaur,+91 8559821766,Priya,Neutrogena Sunscreen,360,Card,Helper3
+02/07/2025 22:38:14,02/07/2025 22:38:14,Kavita Reddy,+91 0985034465,Priya,Matrix Shampoo,789,Cash,Helper2
+18/10/2025 06:39:14,18/10/2025 06:39:14,Sneha Gupta,+91 6908197400,Anjali,Revlon Lipstick,734,Card,Helper3
+22/06/2025 23:20:14,22/06/2025 23:20:14,Ritu Mehta,+91 0371990516,Ritu,Himalaya Neem Face Pack,1454,Cash,
+11/07/2025 01:53:14,11/07/2025 01:53:14,Anjali Sharma,+91 1078356743,Priya,L'Oreal Hair Serum,253,Card,
+29/11/2025 07:54:14,29/11/2025 07:54:14,Anjali Sharma,+91 8706626682,Priya,Maybelline Mascara,441,UPI,Helper3
+27/07/2025 02:34:14,27/07/2025 02:34:14,Anjali Sharma,+91 3319036890,Priya,Himalaya Neem Face Pack,711,Cash,Helper1
+21/06/2025 23:35:14,21/06/2025 23:35:14,Neha Singh,+91 4055934296,Kavita,Plum Body Lotion,450,Cash,Helper1
+11/08/2025 05:20:14,11/08/2025 05:20:14,Simran Kaur,+91 5374584384,Anjali,Himalaya Neem Face Pack,1308,Cash,Helper1
+04/09/2025 03:52:14,04/09/2025 03:52:14,Simran Kaur,+91 4132834831,Anjali,Himalaya Neem Face Pack,490,Cash,Helper2
+03/12/2025 04:48:14,03/12/2025 04:48:14,Simran Kaur,+91 1070449641,Priya,VLCC Hair Oil,1448,Wallet,
+12/06/2025 03:31:14,12/06/2025 03:31:14,Simran Kaur,+91 0336268040,Ritu,Garnier Face Wash,253,UPI,Helper3
+06/11/2025 00:55:14,06/11/2025 00:55:14,Anjali Sharma,+91 5966018648,Kavita,Revlon Lipstick,1372,UPI,Helper2
+13/09/2025 04:54:14,13/09/2025 04:54:14,Kavita Reddy,+91 2044138459,Kavita,L'Oreal Hair Serum,1460,UPI,Helper3
+15/08/2025 07:23:14,15/08/2025 07:23:14,Anjali Sharma,+91 1495427707,Priya,Maybelline Mascara,275,UPI,
+18/11/2025 05:20:14,18/11/2025 05:20:14,Pooja Desai,+91 0914985172,Anjali,VLCC Hair Oil,731,Wallet,Helper2
+05/08/2025 07:18:14,05/08/2025 07:18:14,Neha Singh,+91 9031028795,Priya,Dove Soap,666,Cash,Helper3
+11/08/2025 21:50:14,11/08/2025 21:50:14,Ritu Mehta,+91 8093511871,Ritu,Lakme Face Cream,685,Card,Helper3
+01/11/2025 03:00:14,01/11/2025 03:00:14,Pooja Desai,+91 1642059556,Anjali,Maybelline Mascara,802,Cash,Helper2
+09/09/2025 21:25:14,09/09/2025 21:25:14,Neha Singh,+91 9019358895,Sneha,Revlon Lipstick,1393,Cash,Helper2
+13/09/2025 07:12:14,13/09/2025 07:12:14,Priya Patel,+91 3989868180,Ritu,Maybelline Mascara,1274,Wallet,Helper3
+15/08/2025 01:00:14,15/08/2025 01:00:14,Sneha Gupta,+91 3535375137,Kavita,Garnier Face Wash,363,UPI,Helper1
+08/09/2025 07:37:14,08/09/2025 07:37:14,Kavita Reddy,+91 7639283692,Ritu,VLCC Hair Oil,787,UPI,Helper3
+07/07/2025 22:33:14,07/07/2025 22:33:14,Pooja Desai,+91 8297327021,Kavita,VLCC Hair Oil,1335,Wallet,Helper1
+09/07/2025 22:00:14,09/07/2025 22:00:14,Pooja Desai,+91 0212886652,Kavita,Himalaya Neem Face Pack,1340,Card,Helper3
+08/07/2025 03:04:14,08/07/2025 03:04:14,Ritu Mehta,+91 9991015767,Kavita,VLCC Hair Oil,1177,Card,Helper2
+05/11/2025 05:12:14,05/11/2025 05:12:14,Neha Singh,+91 0995765728,Ritu,VLCC Hair Oil,398,Card,Helper3
+12/10/2025 02:10:14,12/10/2025 02:10:14,Pooja Desai,+91 4565220368,Anjali,Neutrogena Sunscreen,1460,UPI,Helper1
+04/09/2025 01:17:14,04/09/2025 01:17:14,Priya Patel,+91 4477324491,Sneha,Plum Body Lotion,770,Card,Helper1
+30/07/2025 06:00:14,30/07/2025 06:00:14,Neha Singh,+91 0908830705,Sneha,VLCC Hair Oil,1369,Wallet,
+19/10/2025 00:00:14,19/10/2025 00:00:14,Simran Kaur,+91 4117674124,Priya,Garnier Face Wash,361,Card,Helper1
+29/08/2025 23:39:14,29/08/2025 23:39:14,Ritu Mehta,+91 4781506185,Sneha,Dove Soap,1482,Cash,Helper1
+08/08/2025 23:44:14,08/08/2025 23:44:14,Pooja Desai,+91 3347272742,Sneha,Plum Body Lotion,381,Card,Helper1
+26/09/2025 22:38:14,26/09/2025 22:38:14,Kavita Reddy,+91 2064969357,Ritu,Plum Body Lotion,568,UPI,Helper2
+21/08/2025 07:38:14,21/08/2025 07:38:14,Simran Kaur,+91 6958741314,Kavita,Maybelline Mascara,866,Card,
+06/07/2025 23:36:14,06/07/2025 23:36:14,Ritu Mehta,+91 1562779630,Anjali,VLCC Hair Oil,1239,Card,
+23/06/2025 05:56:14,23/06/2025 05:56:14,Ritu Mehta,+91 4566766404,Kavita,Himalaya Neem Face Pack,648,UPI,Helper1
+25/08/2025 04:33:14,25/08/2025 04:33:14,Kavita Reddy,+91 9283199529,Ritu,L'Oreal Hair Serum,243,Wallet,Helper1
+05/12/2025 03:05:14,05/12/2025 03:05:14,Ritu Mehta,+91 8108358328,Kavita,Himalaya Neem Face Pack,669,UPI,Helper2
+11/09/2025 02:33:14,11/09/2025 02:33:14,Kavita Reddy,+91 8300081867,Priya,Matrix Shampoo,779,UPI,Helper1
+05/08/2025 07:56:14,05/08/2025 07:56:14,Kavita Reddy,+91 0416624111,Ritu,Himalaya Neem Face Pack,1050,Cash,Helper1
+24/10/2025 07:05:14,24/10/2025 07:05:14,Neha Singh,+91 1963945680,Anjali,VLCC Hair Oil,1139,Card,Helper1
+14/08/2025 07:43:14,14/08/2025 07:43:14,Simran Kaur,+91 6461368474,Ritu,Dove Soap,700,Wallet,Helper1
+13/10/2025 08:32:14,13/10/2025 08:32:14,Ritu Mehta,+91 8173906375,Kavita,Neutrogena Sunscreen,423,UPI,Helper3
+14/07/2025 07:12:14,14/07/2025 07:12:14,Priya Patel,+91 8237931269,Kavita,Dove Soap,1360,Card,Helper1
+12/10/2025 01:33:14,12/10/2025 01:33:14,Sneha Gupta,+91 5205996043,Ritu,Maybelline Mascara,1317,Wallet,Helper3
+21/11/2025 00:27:14,21/11/2025 00:27:14,Simran Kaur,+91 7881161620,Sneha,Dove Soap,448,Card,Helper2
+27/09/2025 22:09:14,27/09/2025 22:09:14,Pooja Desai,+91 7287286604,Priya,Revlon Lipstick,802,UPI,Helper3
+12/11/2025 02:43:14,12/11/2025 02:43:14,Neha Singh,+91 2483958947,Kavita,Biotique Face Pack,876,Card,Helper2
+20/10/2025 09:00:14,20/10/2025 09:00:14,Simran Kaur,+91 0562271043,Sneha,Himalaya Neem Face Pack,392,Wallet,Helper3
+01/07/2025 21:46:14,01/07/2025 21:46:14,Simran Kaur,+91 9215835034,Anjali,Revlon Lipstick,1396,UPI,Helper3
+14/11/2025 04:06:14,14/11/2025 04:06:14,Sneha Gupta,+91 8831921342,Anjali,Neutrogena Sunscreen,409,Card,
+31/08/2025 06:56:14,31/08/2025 06:56:14,Sneha Gupta,+91 9732033192,Sneha,Matrix Shampoo,1173,Cash,Helper3
+26/06/2025 21:15:14,26/06/2025 21:15:14,Simran Kaur,+91 6754813866,Kavita,Himalaya Neem Face Pack,1171,UPI,Helper3
+19/10/2025 02:40:14,19/10/2025 02:40:14,Priya Patel,+91 9324268774,Priya,Dove Soap,1091,UPI,Helper2
+14/06/2025 03:01:14,14/06/2025 03:01:14,Simran Kaur,+91 5639836520,Sneha,Maybelline Mascara,939,Card,Helper1
+05/11/2025 01:28:14,05/11/2025 01:28:14,Priya Patel,+91 5480940476,Priya,Himalaya Neem Face Pack,718,UPI,Helper1
+31/10/2025 22:02:14,31/10/2025 22:02:14,Simran Kaur,+91 9772781050,Ritu,Himalaya Neem Face Pack,513,Card,Helper2
+29/06/2025 04:00:14,29/06/2025 04:00:14,Priya Patel,+91 0705184390,Anjali,Plum Body Lotion,848,Card,Helper3
+17/10/2025 21:49:14,17/10/2025 21:49:14,Pooja Desai,+91 6013824127,Priya,VLCC Hair Oil,1446,Card,
+22/07/2025 07:54:14,22/07/2025 07:54:14,Anjali Sharma,+91 4485157919,Kavita,Lakme Face Cream,438,Cash,Helper2
+29/06/2025 23:27:14,29/06/2025 23:27:14,Anjali Sharma,+91 2035713432,Anjali,L'Oreal Hair Serum,976,UPI,Helper2
+17/08/2025 23:43:14,17/08/2025 23:43:14,Ritu Mehta,+91 6334324474,Priya,Maybelline Mascara,927,UPI,Helper3
+19/11/2025 05:35:14,19/11/2025 05:35:14,Neha Singh,+91 0962893654,Sneha,Garnier Face Wash,1231,UPI,Helper1
+17/10/2025 00:23:14,17/10/2025 00:23:14,Kavita Reddy,+91 7401827279,Anjali,Garnier Face Wash,1354,Wallet,Helper1
+29/08/2025 08:13:14,29/08/2025 08:13:14,Ritu Mehta,+91 0267551254,Sneha,Maybelline Mascara,1319,Card,Helper1
+28/09/2025 06:36:14,28/09/2025 06:36:14,Pooja Desai,+91 6734595764,Priya,Biotique Face Pack,1238,Cash,
+25/09/2025 01:43:14,25/09/2025 01:43:14,Pooja Desai,+91 9028249839,Sneha,Matrix Shampoo,882,Cash,Helper1
+25/08/2025 23:58:14,25/08/2025 23:58:14,Ritu Mehta,+91 7627023244,Priya,Matrix Shampoo,683,Card,
+01/07/2025 08:22:14,01/07/2025 08:22:14,Neha Singh,+91 8507251786,Sneha,Maybelline Mascara,970,Wallet,Helper2
+02/07/2025 03:15:14,02/07/2025 03:15:14,Ritu Mehta,+91 2654696815,Kavita,Plum Body Lotion,1401,Cash,Helper2
+09/11/2025 23:56:14,09/11/2025 23:56:14,Kavita Reddy,+91 5558099613,Sneha,Maybelline Mascara,584,Cash,Helper2
+24/08/2025 03:12:14,24/08/2025 03:12:14,Ritu Mehta,+91 6262446704,Kavita,Matrix Shampoo,534,Wallet,Helper1
+04/10/2025 22:29:14,04/10/2025 22:29:14,Priya Patel,+91 6025298670,Kavita,Plum Body Lotion,1022,Wallet,Helper1
+24/08/2025 03:23:14,24/08/2025 03:23:14,Priya Patel,+91 9785758512,Kavita,Dove Soap,985,Cash,Helper2
+09/06/2025 03:06:14,09/06/2025 03:06:14,Sneha Gupta,+91 3897607401,Kavita,Maybelline Mascara,951,Cash,Helper3
+11/08/2025 03:28:14,11/08/2025 03:28:14,Sneha Gupta,+91 0842456075,Anjali,Plum Body Lotion,272,Cash,Helper3
+17/06/2025 05:54:14,17/06/2025 05:54:14,Pooja Desai,+91 3218122764,Anjali,Maybelline Mascara,1464,Card,
+17/06/2025 22:27:14,17/06/2025 22:27:14,Ritu Mehta,+91 0291681546,Kavita,L'Oreal Hair Serum,576,UPI,Helper1
+25/09/2025 22:57:14,25/09/2025 22:57:14,Kavita Reddy,+91 9449883059,Kavita,Biotique Face Pack,1094,UPI,Helper2
+17/08/2025 05:49:14,17/08/2025 05:49:14,Anjali Sharma,+91 9624406306,Sneha,VLCC Hair Oil,746,Wallet,Helper3
+02/07/2025 00:21:14,02/07/2025 00:21:14,Anjali Sharma,+91 5319497969,Anjali,Dove Soap,996,Wallet,Helper1
+03/09/2025 02:27:14,03/09/2025 02:27:14,Ritu Mehta,+91 7277382646,Priya,Plum Body Lotion,1370,Cash,
+29/10/2025 02:12:14,29/10/2025 02:12:14,Kavita Reddy,+91 8544577029,Ritu,Matrix Shampoo,1478,UPI,
+21/09/2025 21:55:14,21/09/2025 21:55:14,Sneha Gupta,+91 8736826911,Kavita,Biotique Face Pack,632,Cash,Helper3
+22/07/2025 23:56:14,22/07/2025 23:56:14,Pooja Desai,+91 8653694551,Anjali,Dove Soap,1296,Wallet,Helper2
+19/09/2025 04:55:14,19/09/2025 04:55:14,Simran Kaur,+91 4722640857,Sneha,Plum Body Lotion,401,Wallet,
+23/09/2025 03:19:14,23/09/2025 03:19:14,Anjali Sharma,+91 9329981996,Priya,Garnier Face Wash,1448,Card,Helper2
+31/10/2025 07:37:14,31/10/2025 07:37:14,Priya Patel,+91 5096883275,Sneha,Matrix Shampoo,1167,Card,Helper3
+11/07/2025 01:11:14,11/07/2025 01:11:14,Anjali Sharma,+91 3977397327,Ritu,Plum Body Lotion,427,UPI,Helper2
+09/08/2025 04:53:14,09/08/2025 04:53:14,Priya Patel,+91 0068761648,Priya,Himalaya Neem Face Pack,1443,Cash,
+09/10/2025 08:10:14,09/10/2025 08:10:14,Sneha Gupta,+91 6056876112,Anjali,Neutrogena Sunscreen,428,Card,Helper3
+21/09/2025 07:28:14,21/09/2025 07:28:14,Neha Singh,+91 3734151773,Anjali,Garnier Face Wash,804,Wallet,Helper3
+01/10/2025 08:23:14,01/10/2025 08:23:14,Sneha Gupta,+91 9022840359,Anjali,Himalaya Neem Face Pack,796,UPI,Helper2
+31/10/2025 07:26:14,31/10/2025 07:26:14,Simran Kaur,+91 7422294643,Priya,Biotique Face Pack,1394,UPI,Helper2
+03/11/2025 21:23:14,03/11/2025 21:23:14,Ritu Mehta,+91 8867925298,Anjali,Dove Soap,966,Wallet,
+20/11/2025 00:02:14,20/11/2025 00:02:14,Simran Kaur,+91 2760153433,Sneha,VLCC Hair Oil,1446,Cash,Helper2
+07/09/2025 04:36:14,07/09/2025 04:36:14,Anjali Sharma,+91 8335061581,Anjali,Dove Soap,1295,Cash,Helper1
+30/09/2025 06:40:14,30/09/2025 06:40:14,Kavita Reddy,+91 3423372094,Ritu,VLCC Hair Oil,387,Card,Helper1
+11/07/2025 05:26:14,11/07/2025 05:26:14,Anjali Sharma,+91 3339977180,Anjali,Plum Body Lotion,349,Card,
+07/07/2025 04:12:14,07/07/2025 04:12:14,Simran Kaur,+91 3189397490,Ritu,Revlon Lipstick,428,Wallet,Helper2
+05/11/2025 07:46:14,05/11/2025 07:46:14,Simran Kaur,+91 0469472587,Ritu,VLCC Hair Oil,813,UPI,Helper2
+03/09/2025 01:50:14,03/09/2025 01:50:14,Sneha Gupta,+91 7127058772,Sneha,Lakme Face Cream,1084,UPI,Helper1
+29/09/2025 02:47:14,29/09/2025 02:47:14,Neha Singh,+91 3133484587,Priya,Plum Body Lotion,814,Card,Helper2
+28/08/2025 23:19:14,28/08/2025 23:19:14,Pooja Desai,+91 2292587964,Sneha,VLCC Hair Oil,1166,UPI,Helper3
+15/07/2025 01:28:14,15/07/2025 01:28:14,Ritu Mehta,+91 5746966060,Kavita,Garnier Face Wash,486,Wallet,Helper3
+12/06/2025 08:19:14,12/06/2025 08:19:14,Kavita Reddy,+91 4450566588,Sneha,Biotique Face Pack,1464,Wallet,Helper3
+04/07/2025 22:22:14,04/07/2025 22:22:14,Neha Singh,+91 5797067349,Ritu,Revlon Lipstick,321,Cash,Helper1
+18/11/2025 02:24:14,18/11/2025 02:24:14,Ritu Mehta,+91 7417215622,Ritu,VLCC Hair Oil,1375,Card,Helper1
+28/09/2025 00:27:14,28/09/2025 00:27:14,Sneha Gupta,+91 8840215573,Sneha,Garnier Face Wash,1159,Card,
+08/09/2025 02:19:14,08/09/2025 02:19:14,Sneha Gupta,+91 4902166670,Ritu,L'Oreal Hair Serum,1249,UPI,Helper1
+30/10/2025 03:09:14,30/10/2025 03:09:14,Ritu Mehta,+91 8749511918,Priya,Dove Soap,524,Cash,
+11/11/2025 07:19:14,11/11/2025 07:19:14,Priya Patel,+91 6477251295,Kavita,Dove Soap,1085,Cash,
+02/11/2025 01:07:14,02/11/2025 01:07:14,Pooja Desai,+91 0035624395,Ritu,Maybelline Mascara,610,UPI,Helper2
+25/07/2025 23:20:14,25/07/2025 23:20:14,Sneha Gupta,+91 2108902851,Anjali,Garnier Face Wash,671,Card,Helper2
+23/08/2025 23:34:14,23/08/2025 23:34:14,Sneha Gupta,+91 3350271607,Sneha,Revlon Lipstick,300,Wallet,
+18/09/2025 00:20:14,18/09/2025 00:20:14,Pooja Desai,+91 9112898123,Priya,Maybelline Mascara,1438,UPI,Helper3
+22/09/2025 00:20:14,22/09/2025 00:20:14,Priya Patel,+91 8574817006,Kavita,Revlon Lipstick,404,UPI,Helper3
+25/08/2025 22:34:14,25/08/2025 22:34:14,Sneha Gupta,+91 3167045023,Sneha,Neutrogena Sunscreen,218,Card,Helper2
+13/07/2025 08:37:14,13/07/2025 08:37:14,Anjali Sharma,+91 0934596262,Sneha,Dove Soap,510,Card,Helper3
+05/07/2025 23:08:14,05/07/2025 23:08:14,Simran Kaur,+91 3465495005,Priya,Maybelline Mascara,270,Card,

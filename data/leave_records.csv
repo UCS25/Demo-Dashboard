@@ -1,0 +1,21 @@
+Leave ID,Staff Name,Leave Type,From Date,To Date,Status,Remarks
+LV1000,Sneha Patel,Sick Leave,2025-10-27,2025-11-01,Rejected,
+LV1001,Sneha Patel,Personal,2025-10-15,2025-10-18,Approved,Family function
+LV1002,Sneha Patel,Vacation,2025-10-21,2025-10-24,Rejected,Personal work
+LV1003,Kavita Reddy,Casual Leave,2025-11-27,2025-11-29,Rejected,Medical
+LV1004,Anjali Singh,Vacation,2025-11-20,2025-11-21,Rejected,Family function
+LV1005,Priya Sharma,Sick Leave,2025-10-14,2025-10-16,Approved,Family function
+LV1006,Priya Sharma,Personal,2025-11-08,2025-11-10,Pending,Family function
+LV1007,Kavita Reddy,Sick Leave,2025-12-08,2025-12-13,Pending,Personal work
+LV1008,Priya Sharma,Vacation,2025-10-15,2025-10-18,Approved,
+LV1009,Anjali Singh,Sick Leave,2025-10-29,2025-11-03,Rejected,Family function
+LV1010,Sneha Patel,Vacation,2025-10-13,2025-10-15,Approved,Medical
+LV1011,Priya Sharma,Vacation,2025-12-05,2025-12-08,Pending,
+LV1012,Kavita Reddy,Casual Leave,2025-10-18,2025-10-23,Approved,Medical
+LV1013,Ritu Mehta,Sick Leave,2025-12-23,2025-12-27,Rejected,Medical
+LV1014,Ritu Mehta,Personal,2025-12-28,2026-01-01,Pending,Personal work
+LV1015,Sneha Patel,Sick Leave,2025-12-26,2025-12-29,Approved,
+LV1016,Ritu Mehta,Vacation,2025-10-29,2025-10-30,Approved,Personal work
+LV1017,Kavita Reddy,Sick Leave,2025-12-27,2025-12-30,Pending,
+LV1018,Priya Sharma,Sick Leave,2025-10-15,2025-10-17,Rejected,Medical
+LV1019,Ritu Mehta,Vacation,2025-12-04,2025-12-08,Approved,Family function

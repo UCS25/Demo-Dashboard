@@ -1,0 +1,451 @@
+Appointment ID,Name,Phone Number,Service Booked,Preferred Employee,Appointment Date,Time Slot,Status,Source
+A8662,Soumya,9563954367,Hair Cut,Malar,22/08/2024,10:00 AM,Scheduled,Instagram
+A5140,Priya,9727854456,Waxing,Poornima,22/08/2024,11:00 AM,No-show,Walk-in
+A8097,Nisha,9903134492,Miscellaneous,Anjali,22/08/2024,12:00 PM,Completed,WhatsApp
+A8500,Harini,9716025236,Bleaching,Malar,22/08/2024,3:00 PM,Scheduled,Instagram
+A5576,Sangeetha,9274193300,Hair Cut,Suganya Sri,22/08/2024,5:00 PM,No-show,Instagram
+A4848,Harini,9536616437,Threading,Suganya Sri,23/08/2024,10:00 AM,Scheduled,Instagram
+A7290,Deepa,9517063780,Pedicure,Malar,23/08/2024,11:00 AM,No-show,Instagram
+A2731,Keerthana,9161471565,Waxing,Pinky,23/08/2024,12:00 PM,Scheduled,WhatsApp
+A8987,Ranjani,9811995731,Manicure,Suganya Sri,23/08/2024,3:00 PM,Completed,WhatsApp
+A1944,Sangeetha,9826404469,Bleaching,Pinky,23/08/2024,5:00 PM,Completed,Instagram
+A9043,Shruthi,9775657336,Massage,Suganya Sri,24/08/2024,10:00 AM,Scheduled,Walk-in
+A2348,Soumya,9882374994,Bleaching,Poornima,24/08/2024,11:00 AM,Completed,Walk-in
+A6888,Ranjani,9508936254,De-tan,Suganya Sri,24/08/2024,12:00 PM,Scheduled,WhatsApp
+A5590,Shruthi,9745705238,De-tan,Malar,24/08/2024,3:00 PM,Completed,Instagram
+A7751,Nisha,9317242213,Massage,Anjali,24/08/2024,5:00 PM,No-show,Instagram
+A9650,Keerthana,9992801374,Bleaching,Poornima,25/08/2024,10:00 AM,Completed,Instagram
+A3852,Nisha,9833290166,Miscellaneous,Poornima,25/08/2024,11:00 AM,Completed,WhatsApp
+A2101,Sangeetha,9647044125,Pedicure,Poornima,25/08/2024,12:00 PM,Scheduled,Walk-in
+A6770,Anjali,9408631655,Massage,Malar,25/08/2024,3:00 PM,Completed,Walk-in
+A7927,Latha,9431690996,Waxing,Suganya Sri,25/08/2024,5:00 PM,Scheduled,Instagram
+A9579,Soumya,9606416576,De-tan,Pinky,26/08/2024,10:00 AM,Scheduled,Instagram
+A8051,Harini,9251449206,Hair Cut,Poornima,26/08/2024,11:00 AM,Completed,WhatsApp
+A7205,Sandhya,9275033599,Facial,Malar,26/08/2024,12:00 PM,Completed,Instagram
+A7013,Aishwarya,9174233566,Miscellaneous,Poornima,26/08/2024,3:00 PM,Completed,WhatsApp
+A7184,Aishwarya,9425622442,Facial,Pinky,26/08/2024,5:00 PM,Completed,Instagram
+A7972,Sangeetha,9244437989,Pedicure,Pinky,27/08/2024,10:00 AM,No-show,WhatsApp
+A9315,Latha,9377385907,Bleaching,Malar,27/08/2024,11:00 AM,Completed,WhatsApp
+A9080,Sangeetha,9569145286,Wash,Suganya Sri,27/08/2024,12:00 PM,Scheduled,Instagram
+A8475,Sandhya,9701304521,Threading,Pinky,27/08/2024,3:00 PM,Scheduled,WhatsApp
+A5930,Kavya,9117395807,Bleaching,Poornima,27/08/2024,5:00 PM,No-show,Walk-in
+A1894,Meena,9839380654,Threading,Anjali,28/08/2024,10:00 AM,No-show,Walk-in
+A5371,Priya,9134487795,Waxing,Anjali,28/08/2024,11:00 AM,Completed,WhatsApp
+A1671,Keerthana,9184511870,Threading,Suganya Sri,28/08/2024,12:00 PM,No-show,WhatsApp
+A4919,Keerthana,9419798968,Bleaching,Poornima,28/08/2024,3:00 PM,Completed,Walk-in
+A8448,Sangeetha,9772785218,Manicure,Poornima,28/08/2024,5:00 PM,Scheduled,WhatsApp
+A5451,Divya,9811630884,Wash,Malar,29/08/2024,10:00 AM,Completed,Instagram
+A3976,Deepa,9490584350,Hair Cut,Suganya Sri,29/08/2024,11:00 AM,Completed,Instagram
+A6652,Soumya,9162535442,Manicure,Suganya Sri,29/08/2024,12:00 PM,Completed,WhatsApp
+A9943,Meena,9480594390,Massage,Pinky,29/08/2024,3:00 PM,No-show,WhatsApp
+A1109,Deepa,9141416314,Manicure,Poornima,29/08/2024,5:00 PM,No-show,WhatsApp
+A2204,Aishwarya,9646141199,Manicure,Poornima,30/08/2024,10:00 AM,Scheduled,Walk-in
+A2613,Keerthana,9745530907,Massage,Suganya Sri,30/08/2024,11:00 AM,Completed,WhatsApp
+A1097,Divya,9231450861,Wash,Suganya Sri,30/08/2024,12:00 PM,Scheduled,Instagram
+A9840,Ranjani,9801889412,Wash,Pinky,30/08/2024,3:00 PM,No-show,WhatsApp
+A3974,Sandhya,9922800124,Waxing,Anjali,30/08/2024,5:00 PM,Completed,WhatsApp
+A3001,Shruthi,9828583858,Miscellaneous,Pinky,31/08/2024,10:00 AM,Completed,WhatsApp
+A9490,Harini,9408708819,Facial,Pinky,31/08/2024,11:00 AM,No-show,Walk-in
+A8843,Keerthana,9442330175,Manicure,Suganya Sri,31/08/2024,12:00 PM,No-show,WhatsApp
+A6373,Deepa,9858617585,Bleaching,Malar,31/08/2024,3:00 PM,No-show,Walk-in
+A6601,Sangeetha,9585104626,Manicure,Anjali,31/08/2024,5:00 PM,Completed,WhatsApp
+A4514,Ranjani,9147474780,Bleaching,Anjali,01/09/2024,10:00 AM,No-show,Walk-in
+A6206,Priya,9460985091,Wash,Suganya Sri,01/09/2024,11:00 AM,Scheduled,Instagram
+A8374,Sangeetha,9603513052,Threading,Poornima,01/09/2024,12:00 PM,Completed,Walk-in
+A6156,Sandhya,9633609257,Facial,Malar,01/09/2024,3:00 PM,Scheduled,Walk-in
+A2203,Aishwarya,9288660690,Miscellaneous,Suganya Sri,01/09/2024,5:00 PM,Scheduled,Instagram
+A1240,Keerthana,9663513637,Pedicure,Pinky,02/09/2024,10:00 AM,No-show,WhatsApp
+A1735,Divya,9177450882,Massage,Pinky,02/09/2024,11:00 AM,Completed,Instagram
+A2672,Latha,9819316697,Miscellaneous,Malar,02/09/2024,12:00 PM,Completed,WhatsApp
+A6854,Nisha,9559392571,Wash,Malar,02/09/2024,3:00 PM,Completed,WhatsApp
+A7343,Ranjani,9351410965,Miscellaneous,Anjali,02/09/2024,5:00 PM,No-show,WhatsApp
+A8884,Divya,9265028414,Hair Cut,Anjali,03/09/2024,10:00 AM,Completed,Instagram
+A3452,Harini,9842762605,Miscellaneous,Malar,03/09/2024,11:00 AM,Scheduled,Instagram
+A7658,Harini,9950330116,Wash,Poornima,03/09/2024,12:00 PM,Completed,Instagram
+A1004,Divya,9909553129,Waxing,Malar,03/09/2024,3:00 PM,Scheduled,WhatsApp
+A3990,Latha,9919570813,Hair Cut,Suganya Sri,03/09/2024,5:00 PM,Scheduled,WhatsApp
+A2282,Swathi,9548061038,Threading,Suganya Sri,04/09/2024,10:00 AM,No-show,Walk-in
+A6901,Sangeetha,9241288866,Miscellaneous,Poornima,04/09/2024,11:00 AM,No-show,WhatsApp
+A7659,Keerthana,9433334807,Miscellaneous,Malar,04/09/2024,12:00 PM,Scheduled,Instagram
+A8084,Ranjani,9447354492,Waxing,Malar,04/09/2024,3:00 PM,No-show,WhatsApp
+A2694,Nisha,9426333896,Waxing,Suganya Sri,04/09/2024,5:00 PM,No-show,Walk-in
+A1580,Keerthana,9432652662,Pedicure,Malar,05/09/2024,10:00 AM,No-show,WhatsApp
+A8709,Swathi,9177746516,Threading,Pinky,05/09/2024,11:00 AM,No-show,WhatsApp
+A1543,Shruthi,9817177684,Pedicure,Suganya Sri,05/09/2024,12:00 PM,Scheduled,Instagram
+A6656,Shruthi,9760334322,Massage,Poornima,05/09/2024,3:00 PM,No-show,Instagram
+A5606,Anjali,9566295275,Bleaching,Anjali,05/09/2024,5:00 PM,Completed,Instagram
+A7925,Anjali,9622222254,Waxing,Pinky,06/09/2024,10:00 AM,No-show,Walk-in
+A5986,Keerthana,9112142808,Bleaching,Pinky,06/09/2024,11:00 AM,Scheduled,WhatsApp
+A9059,Kavya,9361177749,Facial,Malar,06/09/2024,12:00 PM,Scheduled,Instagram
+A7960,Priya,9603340045,Manicure,Poornima,06/09/2024,3:00 PM,No-show,WhatsApp
+A6554,Deepa,9902726452,Threading,Pinky,06/09/2024,5:00 PM,Completed,WhatsApp
+A2631,Sandhya,9947864366,Hair Cut,Pinky,07/09/2024,10:00 AM,Scheduled,Walk-in
+A6824,Swathi,9165724656,Facial,Pinky,07/09/2024,11:00 AM,No-show,WhatsApp
+A4250,Aishwarya,9223374039,Miscellaneous,Pinky,07/09/2024,12:00 PM,No-show,Walk-in
+A7518,Kavya,9397537151,De-tan,Poornima,07/09/2024,3:00 PM,Scheduled,Instagram
+A6931,Kavya,9293318770,De-tan,Malar,07/09/2024,5:00 PM,Completed,Walk-in
+A4469,Shruthi,9312295544,Facial,Anjali,08/09/2024,10:00 AM,Completed,Walk-in
+A4914,Harini,9683880669,Facial,Malar,08/09/2024,11:00 AM,Completed,WhatsApp
+A4437,Aishwarya,9230763337,Wash,Poornima,08/09/2024,12:00 PM,No-show,WhatsApp
+A8783,Harini,9246506552,Facial,Suganya Sri,08/09/2024,3:00 PM,Scheduled,Walk-in
+A3749,Kavya,9362400177,Waxing,Anjali,08/09/2024,5:00 PM,No-show,Instagram
+A5913,Shruthi,9241122626,Facial,Suganya Sri,09/09/2024,10:00 AM,Completed,Walk-in
+A4633,Latha,9273193054,Hair Cut,Malar,09/09/2024,11:00 AM,Completed,Instagram
+A2315,Soumya,9695501275,Pedicure,Pinky,09/09/2024,12:00 PM,Scheduled,Instagram
+A3871,Nisha,9269367492,Bleaching,Pinky,09/09/2024,3:00 PM,Scheduled,Instagram
+A6784,Deepa,9669942860,Massage,Suganya Sri,09/09/2024,5:00 PM,Completed,WhatsApp
+A3903,Deepa,9808219374,Wash,Suganya Sri,10/09/2024,10:00 AM,No-show,Instagram
+A8091,Soumya,9204255616,Hair Cut,Anjali,10/09/2024,11:00 AM,Completed,Instagram
+A6864,Aishwarya,9176076573,Waxing,Suganya Sri,10/09/2024,12:00 PM,Scheduled,Instagram
+A5096,Soumya,9408124598,Threading,Poornima,10/09/2024,3:00 PM,No-show,Walk-in
+A6496,Anjali,9253575890,Miscellaneous,Suganya Sri,10/09/2024,5:00 PM,Completed,WhatsApp
+A3847,Ranjani,9868617468,Miscellaneous,Anjali,11/09/2024,10:00 AM,Completed,Instagram
+A6374,Shruthi,9235300009,Bleaching,Suganya Sri,11/09/2024,11:00 AM,No-show,Instagram
+A1341,Keerthana,9195968399,Manicure,Anjali,11/09/2024,12:00 PM,Scheduled,WhatsApp
+A5257,Divya,9793871035,Facial,Anjali,11/09/2024,3:00 PM,Completed,WhatsApp
+A9430,Deepa,9869460109,Hair Cut,Suganya Sri,11/09/2024,5:00 PM,No-show,Walk-in
+A4586,Kavya,9773439183,Facial,Poornima,12/09/2024,10:00 AM,Scheduled,Instagram
+A3996,Sangeetha,9871565085,Wash,Suganya Sri,12/09/2024,11:00 AM,Scheduled,Walk-in
+A7340,Aishwarya,9949356380,Pedicure,Anjali,12/09/2024,12:00 PM,No-show,Instagram
+A2358,Harini,9555691683,Bleaching,Malar,12/09/2024,3:00 PM,Scheduled,Walk-in
+A6083,Divya,9550641507,Miscellaneous,Pinky,12/09/2024,5:00 PM,Completed,Walk-in
+A4183,Soumya,9262430530,Hair Cut,Anjali,13/09/2024,10:00 AM,Completed,WhatsApp
+A7154,Ranjani,9972140091,Waxing,Malar,13/09/2024,11:00 AM,Completed,WhatsApp
+A7624,Harini,9592129887,Hair Cut,Anjali,13/09/2024,12:00 PM,No-show,Walk-in
+A6702,Ranjani,9690718945,Bleaching,Malar,13/09/2024,3:00 PM,No-show,WhatsApp
+A2396,Latha,9795682165,Wash,Anjali,13/09/2024,5:00 PM,No-show,WhatsApp
+A8912,Soumya,9265514385,Waxing,Malar,14/09/2024,10:00 AM,No-show,Instagram
+A7620,Nisha,9674193442,Miscellaneous,Pinky,14/09/2024,11:00 AM,No-show,Walk-in
+A9103,Priya,9489305360,Hair Cut,Poornima,14/09/2024,12:00 PM,No-show,WhatsApp
+A4809,Soumya,9594106718,De-tan,Suganya Sri,14/09/2024,3:00 PM,Completed,Instagram
+A1923,Deepa,9509313104,Bleaching,Poornima,14/09/2024,5:00 PM,Scheduled,WhatsApp
+A9086,Shruthi,9749621597,Massage,Poornima,15/09/2024,10:00 AM,Completed,Walk-in
+A4566,Anjali,9240324240,De-tan,Anjali,15/09/2024,11:00 AM,Completed,WhatsApp
+A2293,Aishwarya,9923283024,Waxing,Suganya Sri,15/09/2024,12:00 PM,Scheduled,Walk-in
+A1243,Sangeetha,9200986206,Miscellaneous,Anjali,15/09/2024,3:00 PM,No-show,WhatsApp
+A3234,Priya,9725652945,Waxing,Malar,15/09/2024,5:00 PM,Scheduled,Instagram
+A8461,Deepa,9365806795,Bleaching,Suganya Sri,16/09/2024,10:00 AM,No-show,Instagram
+A2532,Deepa,9440821705,Facial,Malar,16/09/2024,11:00 AM,Scheduled,Instagram
+A8417,Keerthana,9367018382,Bleaching,Malar,16/09/2024,12:00 PM,Completed,WhatsApp
+A6348,Divya,9723221471,Miscellaneous,Anjali,16/09/2024,3:00 PM,Scheduled,Instagram
+A5269,Ranjani,9865249350,Wash,Poornima,16/09/2024,5:00 PM,Completed,Instagram
+A5556,Meena,9585970340,Bleaching,Anjali,17/09/2024,10:00 AM,Completed,Instagram
+A2154,Meena,9306956359,Threading,Suganya Sri,17/09/2024,11:00 AM,Scheduled,WhatsApp
+A7152,Swathi,9110355853,De-tan,Suganya Sri,17/09/2024,12:00 PM,No-show,Walk-in
+A9905,Harini,9352110488,Bleaching,Suganya Sri,17/09/2024,3:00 PM,Completed,Walk-in
+A9299,Nisha,9772231064,Miscellaneous,Suganya Sri,17/09/2024,5:00 PM,No-show,Instagram
+A6839,Kavya,9462303517,Waxing,Anjali,18/09/2024,10:00 AM,No-show,Walk-in
+A5936,Latha,9736491641,Hair Cut,Suganya Sri,18/09/2024,11:00 AM,No-show,Instagram
+A1331,Meena,9388716516,Miscellaneous,Poornima,18/09/2024,12:00 PM,Scheduled,Instagram
+A1773,Latha,9216475035,Massage,Suganya Sri,18/09/2024,3:00 PM,No-show,Walk-in
+A2850,Latha,9302079369,Miscellaneous,Suganya Sri,18/09/2024,5:00 PM,Completed,Instagram
+A4878,Nisha,9609628365,De-tan,Suganya Sri,19/09/2024,10:00 AM,Completed,WhatsApp
+A9146,Deepa,9112458469,Facial,Anjali,19/09/2024,11:00 AM,No-show,Instagram
+A9986,Ranjani,9147153769,Facial,Pinky,19/09/2024,12:00 PM,Scheduled,Instagram
+A1290,Priya,9484674038,De-tan,Poornima,19/09/2024,3:00 PM,No-show,WhatsApp
+A7088,Soumya,9781251203,Facial,Malar,19/09/2024,5:00 PM,Completed,Walk-in
+A8605,Keerthana,9672688239,Threading,Poornima,20/09/2024,10:00 AM,No-show,Walk-in
+A2424,Anjali,9773645447,Wash,Malar,20/09/2024,11:00 AM,Completed,WhatsApp
+A6535,Keerthana,9983320859,Massage,Suganya Sri,20/09/2024,12:00 PM,No-show,Walk-in
+A5936,Deepa,9136863492,Waxing,Pinky,20/09/2024,3:00 PM,Completed,Walk-in
+A2747,Swathi,9960475777,Miscellaneous,Malar,20/09/2024,5:00 PM,No-show,Instagram
+A2709,Keerthana,9637657154,Massage,Pinky,21/09/2024,10:00 AM,Scheduled,Walk-in
+A2623,Anjali,9968761784,Bleaching,Anjali,21/09/2024,11:00 AM,Scheduled,Instagram
+A1802,Anjali,9481370685,Pedicure,Pinky,21/09/2024,12:00 PM,No-show,Instagram
+A7561,Priya,9580793521,Massage,Anjali,21/09/2024,3:00 PM,Scheduled,Walk-in
+A6433,Nisha,9197796098,De-tan,Malar,21/09/2024,5:00 PM,Scheduled,WhatsApp
+A4157,Priya,9112520789,Facial,Poornima,22/09/2024,10:00 AM,Scheduled,WhatsApp
+A6779,Ranjani,9308574299,Waxing,Anjali,22/09/2024,11:00 AM,Completed,WhatsApp
+A1379,Nisha,9564618129,Facial,Pinky,22/09/2024,12:00 PM,No-show,Instagram
+A1997,Deepa,9602154907,Massage,Malar,22/09/2024,3:00 PM,Scheduled,WhatsApp
+A9411,Ranjani,9927979707,Pedicure,Anjali,22/09/2024,5:00 PM,Completed,Walk-in
+A4693,Ranjani,9864166997,Pedicure,Pinky,23/09/2024,10:00 AM,Scheduled,Instagram
+A7100,Divya,9633682821,Wash,Anjali,23/09/2024,11:00 AM,Scheduled,Instagram
+A9759,Soumya,9903904035,De-tan,Anjali,23/09/2024,12:00 PM,No-show,Walk-in
+A3581,Soumya,9132382795,Manicure,Suganya Sri,23/09/2024,3:00 PM,Completed,WhatsApp
+A5508,Shruthi,9999028974,Manicure,Pinky,23/09/2024,5:00 PM,No-show,WhatsApp
+A9379,Latha,9117669710,Miscellaneous,Pinky,24/09/2024,10:00 AM,No-show,Instagram
+A8020,Kavya,9985832337,Facial,Anjali,24/09/2024,11:00 AM,Completed,Instagram
+A6813,Ranjani,9195318200,Threading,Anjali,24/09/2024,12:00 PM,Scheduled,WhatsApp
+A3517,Sandhya,9835282014,Hair Cut,Malar,24/09/2024,3:00 PM,No-show,WhatsApp
+A8849,Harini,9760293942,Facial,Malar,24/09/2024,5:00 PM,No-show,Instagram
+A3187,Aishwarya,9562913160,Waxing,Pinky,25/09/2024,10:00 AM,No-show,Walk-in
+A9384,Ranjani,9566340202,Bleaching,Suganya Sri,25/09/2024,11:00 AM,Completed,Walk-in
+A6126,Keerthana,9921398502,Manicure,Poornima,25/09/2024,12:00 PM,Scheduled,Instagram
+A3326,Soumya,9522427290,De-tan,Pinky,25/09/2024,3:00 PM,Scheduled,Instagram
+A9068,Latha,9115611705,Massage,Malar,25/09/2024,5:00 PM,Completed,Instagram
+A1556,Sandhya,9578272842,Facial,Pinky,26/09/2024,10:00 AM,Completed,WhatsApp
+A2745,Ranjani,9646632585,Hair Cut,Anjali,26/09/2024,11:00 AM,Scheduled,Walk-in
+A3641,Sandhya,9505355431,Manicure,Anjali,26/09/2024,12:00 PM,Scheduled,WhatsApp
+A8897,Soumya,9370826848,Threading,Suganya Sri,26/09/2024,3:00 PM,Completed,Instagram
+A6846,Priya,9424137192,Hair Cut,Pinky,26/09/2024,5:00 PM,No-show,Walk-in
+A1776,Soumya,9894137572,De-tan,Pinky,27/09/2024,10:00 AM,Scheduled,WhatsApp
+A3111,Keerthana,9929411269,Wash,Malar,27/09/2024,11:00 AM,Completed,WhatsApp
+A6637,Kavya,9320582612,Massage,Malar,27/09/2024,12:00 PM,Scheduled,Walk-in
+A7354,Latha,9390426000,Wash,Malar,27/09/2024,3:00 PM,No-show,Walk-in
+A9482,Sandhya,9224883618,Miscellaneous,Pinky,27/09/2024,5:00 PM,Completed,Walk-in
+A8321,Priya,9641567281,Bleaching,Malar,28/09/2024,10:00 AM,Scheduled,Walk-in
+A1371,Meena,9495963423,Waxing,Suganya Sri,28/09/2024,11:00 AM,Completed,WhatsApp
+A4072,Keerthana,9938837270,Manicure,Anjali,28/09/2024,12:00 PM,No-show,Walk-in
+A3278,Divya,9857900823,Threading,Anjali,28/09/2024,3:00 PM,No-show,Instagram
+A9133,Priya,9912159471,Facial,Pinky,28/09/2024,5:00 PM,Scheduled,Walk-in
+A3891,Nisha,9636545099,Miscellaneous,Anjali,29/09/2024,10:00 AM,Scheduled,Instagram
+A4674,Nisha,9418209397,Massage,Pinky,29/09/2024,11:00 AM,Completed,WhatsApp
+A2299,Latha,9540537461,Miscellaneous,Malar,29/09/2024,12:00 PM,No-show,Walk-in
+A5064,Divya,9748605352,Pedicure,Malar,29/09/2024,3:00 PM,Scheduled,Instagram
+A9960,Sandhya,9354606659,Bleaching,Anjali,29/09/2024,5:00 PM,No-show,WhatsApp
+A5123,Swathi,9671344612,Hair Cut,Poornima,30/09/2024,10:00 AM,No-show,WhatsApp
+A9646,Swathi,9897129848,Waxing,Pinky,30/09/2024,11:00 AM,Completed,Instagram
+A5633,Harini,9420955901,Wash,Anjali,30/09/2024,12:00 PM,Scheduled,Instagram
+A3080,Ranjani,9559095383,Threading,Pinky,30/09/2024,3:00 PM,Completed,WhatsApp
+A4177,Shruthi,9593103610,Manicure,Anjali,30/09/2024,5:00 PM,Scheduled,WhatsApp
+A2109,Swathi,9967538000,Hair Cut,Poornima,01/10/2024,10:00 AM,Scheduled,Instagram
+A5344,Swathi,9654237436,Threading,Poornima,01/10/2024,11:00 AM,No-show,WhatsApp
+A1248,Nisha,9444505732,Hair Cut,Poornima,01/10/2024,12:00 PM,No-show,WhatsApp
+A2966,Swathi,9749424446,Hair Cut,Anjali,01/10/2024,3:00 PM,Scheduled,WhatsApp
+A8854,Swathi,9461558093,De-tan,Poornima,01/10/2024,5:00 PM,No-show,Walk-in
+A4643,Aishwarya,9834049210,Manicure,Anjali,02/10/2024,10:00 AM,Scheduled,Instagram
+A3250,Kavya,9490489704,Hair Cut,Suganya Sri,02/10/2024,11:00 AM,Scheduled,WhatsApp
+A6114,Meena,9368772474,Hair Cut,Poornima,02/10/2024,12:00 PM,Completed,WhatsApp
+A4897,Sangeetha,9388305367,Massage,Anjali,02/10/2024,3:00 PM,Scheduled,Instagram
+A2525,Ranjani,9227299573,Massage,Malar,02/10/2024,5:00 PM,Scheduled,WhatsApp
+A8216,Sangeetha,9156924421,Massage,Suganya Sri,03/10/2024,10:00 AM,Scheduled,Walk-in
+A3722,Meena,9489510158,Waxing,Poornima,03/10/2024,11:00 AM,Completed,Instagram
+A7141,Ranjani,9843037744,Bleaching,Anjali,03/10/2024,12:00 PM,No-show,Walk-in
+A3764,Swathi,9209100644,Massage,Malar,03/10/2024,3:00 PM,No-show,WhatsApp
+A4493,Kavya,9828917647,De-tan,Malar,03/10/2024,5:00 PM,No-show,Walk-in
+A9960,Aishwarya,9408444714,Bleaching,Suganya Sri,04/10/2024,10:00 AM,Scheduled,Walk-in
+A1918,Aishwarya,9779359284,Wash,Malar,04/10/2024,11:00 AM,No-show,WhatsApp
+A3742,Anjali,9948463687,Threading,Pinky,04/10/2024,12:00 PM,Completed,WhatsApp
+A3010,Swathi,9112911268,Facial,Pinky,04/10/2024,3:00 PM,No-show,Walk-in
+A8139,Meena,9319842893,De-tan,Malar,04/10/2024,5:00 PM,Scheduled,Walk-in
+A9291,Soumya,9915222826,Pedicure,Pinky,05/10/2024,10:00 AM,Completed,Instagram
+A7384,Nisha,9473012528,Manicure,Poornima,05/10/2024,11:00 AM,No-show,Instagram
+A3378,Deepa,9801458340,Threading,Poornima,05/10/2024,12:00 PM,Completed,Instagram
+A7712,Sangeetha,9669543652,Manicure,Poornima,05/10/2024,3:00 PM,Scheduled,Instagram
+A9625,Nisha,9285785281,Massage,Anjali,05/10/2024,5:00 PM,Completed,Instagram
+A2568,Deepa,9390117168,Waxing,Pinky,06/10/2024,10:00 AM,Scheduled,WhatsApp
+A7890,Nisha,9531740790,Bleaching,Suganya Sri,06/10/2024,11:00 AM,Completed,Instagram
+A4241,Nisha,9542666276,Wash,Malar,06/10/2024,12:00 PM,No-show,Instagram
+A3387,Keerthana,9924104604,Massage,Poornima,06/10/2024,3:00 PM,No-show,WhatsApp
+A1805,Aishwarya,9328444218,Miscellaneous,Malar,06/10/2024,5:00 PM,No-show,WhatsApp
+A4621,Sangeetha,9369497061,De-tan,Anjali,07/10/2024,10:00 AM,No-show,Instagram
+A1256,Ranjani,9209160627,Wash,Suganya Sri,07/10/2024,11:00 AM,Scheduled,Instagram
+A3624,Harini,9551567585,Miscellaneous,Pinky,07/10/2024,12:00 PM,No-show,WhatsApp
+A4903,Aishwarya,9536166859,Miscellaneous,Pinky,07/10/2024,3:00 PM,Scheduled,Walk-in
+A5674,Harini,9276765417,Facial,Anjali,07/10/2024,5:00 PM,Completed,WhatsApp
+A4784,Aishwarya,9555498806,Threading,Suganya Sri,08/10/2024,10:00 AM,Completed,Instagram
+A9171,Keerthana,9972147669,Manicure,Anjali,08/10/2024,11:00 AM,No-show,Walk-in
+A4405,Deepa,9286317786,Waxing,Pinky,08/10/2024,12:00 PM,Scheduled,Walk-in
+A2596,Shruthi,9572527609,Miscellaneous,Suganya Sri,08/10/2024,3:00 PM,Completed,Walk-in
+A1760,Divya,9296829642,Facial,Pinky,08/10/2024,5:00 PM,No-show,WhatsApp
+A1344,Keerthana,9331625081,De-tan,Malar,09/10/2024,10:00 AM,No-show,WhatsApp
+A3115,Priya,9292765557,Bleaching,Suganya Sri,09/10/2024,11:00 AM,Scheduled,Instagram
+A8213,Deepa,9726982868,Waxing,Pinky,09/10/2024,12:00 PM,Completed,Walk-in
+A1793,Harini,9746580621,Hair Cut,Pinky,09/10/2024,3:00 PM,Completed,Walk-in
+A5858,Harini,9473308678,Waxing,Pinky,09/10/2024,5:00 PM,Scheduled,Instagram
+A5002,Meena,9189691416,Facial,Suganya Sri,10/10/2024,10:00 AM,Scheduled,Walk-in
+A1879,Swathi,9704979450,De-tan,Poornima,10/10/2024,11:00 AM,Completed,WhatsApp
+A2626,Kavya,9923748376,Facial,Pinky,10/10/2024,12:00 PM,Completed,Walk-in
+A6679,Anjali,9364652027,Wash,Pinky,10/10/2024,3:00 PM,Scheduled,WhatsApp
+A5339,Sandhya,9620316917,Miscellaneous,Pinky,10/10/2024,5:00 PM,Completed,Walk-in
+A5324,Nisha,9335097175,Manicure,Suganya Sri,11/10/2024,10:00 AM,No-show,Instagram
+A3579,Latha,9298898021,Bleaching,Suganya Sri,11/10/2024,11:00 AM,No-show,Instagram
+A5233,Anjali,9183050025,Wash,Poornima,11/10/2024,12:00 PM,Completed,WhatsApp
+A7261,Divya,9341169863,Hair Cut,Malar,11/10/2024,3:00 PM,Completed,Walk-in
+A8544,Divya,9280523835,Pedicure,Anjali,11/10/2024,5:00 PM,Scheduled,WhatsApp
+A2601,Aishwarya,9534227889,Manicure,Poornima,12/10/2024,10:00 AM,Scheduled,Instagram
+A2372,Kavya,9632804293,Massage,Malar,12/10/2024,11:00 AM,No-show,Instagram
+A2143,Nisha,9483634742,Manicure,Suganya Sri,12/10/2024,12:00 PM,Completed,Walk-in
+A5328,Meena,9170420685,Pedicure,Anjali,12/10/2024,3:00 PM,No-show,WhatsApp
+A5337,Harini,9619223150,Massage,Malar,12/10/2024,5:00 PM,Completed,Instagram
+A2823,Priya,9817198254,De-tan,Malar,13/10/2024,10:00 AM,Completed,WhatsApp
+A6075,Latha,9634230509,Pedicure,Pinky,13/10/2024,11:00 AM,No-show,Walk-in
+A4037,Soumya,9633021990,Facial,Suganya Sri,13/10/2024,12:00 PM,Completed,Walk-in
+A2926,Anjali,9438687388,Miscellaneous,Malar,13/10/2024,3:00 PM,No-show,Walk-in
+A4497,Deepa,9888825047,Bleaching,Anjali,13/10/2024,5:00 PM,No-show,WhatsApp
+A2052,Soumya,9197384664,Waxing,Malar,14/10/2024,10:00 AM,Completed,WhatsApp
+A7904,Keerthana,9358131733,Bleaching,Malar,14/10/2024,11:00 AM,Completed,WhatsApp
+A6179,Meena,9973462528,Manicure,Anjali,14/10/2024,12:00 PM,No-show,WhatsApp
+A4828,Divya,9628894413,Miscellaneous,Poornima,14/10/2024,3:00 PM,No-show,Walk-in
+A5322,Kavya,9112920145,Bleaching,Anjali,14/10/2024,5:00 PM,Completed,WhatsApp
+A6510,Nisha,9497857277,Hair Cut,Poornima,15/10/2024,10:00 AM,Scheduled,Walk-in
+A1937,Latha,9756924259,Massage,Pinky,15/10/2024,11:00 AM,No-show,Instagram
+A9868,Ranjani,9120161154,Threading,Malar,15/10/2024,12:00 PM,Scheduled,Walk-in
+A3880,Harini,9532324830,Manicure,Malar,15/10/2024,3:00 PM,Scheduled,Instagram
+A8821,Deepa,9577324647,Massage,Anjali,15/10/2024,5:00 PM,Scheduled,Walk-in
+A4472,Meena,9844389163,Wash,Malar,16/10/2024,10:00 AM,Scheduled,Instagram
+A6106,Latha,9983689516,Hair Cut,Pinky,16/10/2024,11:00 AM,Completed,WhatsApp
+A3831,Priya,9314587508,De-tan,Malar,16/10/2024,12:00 PM,No-show,Walk-in
+A3346,Soumya,9830174406,Hair Cut,Poornima,16/10/2024,3:00 PM,No-show,WhatsApp
+A3927,Divya,9209920583,Threading,Malar,16/10/2024,5:00 PM,No-show,WhatsApp
+A9290,Anjali,9802638230,De-tan,Suganya Sri,17/10/2024,10:00 AM,Scheduled,WhatsApp
+A2333,Soumya,9201355768,Facial,Pinky,17/10/2024,11:00 AM,Scheduled,Instagram
+A4948,Nisha,9935800640,Manicure,Suganya Sri,17/10/2024,12:00 PM,Scheduled,Walk-in
+A7607,Swathi,9274386440,Massage,Pinky,17/10/2024,3:00 PM,Scheduled,Walk-in
+A7105,Deepa,9967371395,Massage,Malar,17/10/2024,5:00 PM,Scheduled,WhatsApp
+A6479,Divya,9924568608,Waxing,Anjali,18/10/2024,10:00 AM,Completed,Instagram
+A4163,Priya,9937147770,Hair Cut,Pinky,18/10/2024,11:00 AM,Completed,Instagram
+A3861,Kavya,9449378283,Manicure,Anjali,18/10/2024,12:00 PM,No-show,Instagram
+A9712,Shruthi,9705013399,Threading,Poornima,18/10/2024,3:00 PM,No-show,WhatsApp
+A3922,Kavya,9222938299,Bleaching,Suganya Sri,18/10/2024,5:00 PM,Scheduled,Walk-in
+A6408,Divya,9982356193,Threading,Pinky,19/10/2024,10:00 AM,No-show,Walk-in
+A8446,Sangeetha,9738880493,Manicure,Pinky,19/10/2024,11:00 AM,Completed,WhatsApp
+A4215,Sandhya,9812662045,Manicure,Malar,19/10/2024,12:00 PM,Scheduled,Walk-in
+A1053,Soumya,9853285013,Manicure,Poornima,19/10/2024,3:00 PM,Scheduled,WhatsApp
+A7592,Keerthana,9542804265,Massage,Suganya Sri,19/10/2024,5:00 PM,No-show,WhatsApp
+A8731,Harini,9328222811,Bleaching,Suganya Sri,20/10/2024,10:00 AM,Scheduled,Walk-in
+A5386,Kavya,9872207049,Facial,Malar,20/10/2024,11:00 AM,Scheduled,WhatsApp
+A5901,Soumya,9944017210,Hair Cut,Pinky,20/10/2024,12:00 PM,Scheduled,Walk-in
+A3795,Kavya,9674364982,Bleaching,Malar,20/10/2024,3:00 PM,Scheduled,Instagram
+A8873,Aishwarya,9381129730,Miscellaneous,Pinky,20/10/2024,5:00 PM,Completed,Walk-in
+A4796,Aishwarya,9256779512,De-tan,Malar,21/10/2024,10:00 AM,Scheduled,Instagram
+A6825,Meena,9445482969,Massage,Anjali,21/10/2024,11:00 AM,Completed,Instagram
+A1770,Divya,9309534922,Pedicure,Pinky,21/10/2024,12:00 PM,Completed,Walk-in
+A2983,Harini,9694553204,Waxing,Pinky,21/10/2024,3:00 PM,No-show,Instagram
+A4945,Nisha,9670398008,De-tan,Anjali,21/10/2024,5:00 PM,Scheduled,WhatsApp
+A9312,Sandhya,9896631118,Hair Cut,Malar,22/10/2024,10:00 AM,Scheduled,Walk-in
+A5913,Keerthana,9757151118,Bleaching,Anjali,22/10/2024,11:00 AM,No-show,Walk-in
+A2409,Harini,9506753534,Facial,Malar,22/10/2024,12:00 PM,Scheduled,Walk-in
+A3567,Anjali,9798542844,Threading,Poornima,22/10/2024,3:00 PM,Completed,WhatsApp
+A9190,Priya,9881067030,Massage,Malar,22/10/2024,5:00 PM,Scheduled,Walk-in
+A9826,Kavya,9751930062,Bleaching,Anjali,23/10/2024,10:00 AM,Completed,WhatsApp
+A8069,Kavya,9270644442,Hair Cut,Pinky,23/10/2024,11:00 AM,Scheduled,Instagram
+A4390,Anjali,9930089408,Pedicure,Poornima,23/10/2024,12:00 PM,Completed,WhatsApp
+A3931,Harini,9816272618,Miscellaneous,Suganya Sri,23/10/2024,3:00 PM,Completed,Instagram
+A2688,Priya,9321769189,Hair Cut,Suganya Sri,23/10/2024,5:00 PM,Scheduled,Instagram
+A9086,Latha,9190460365,Threading,Anjali,24/10/2024,10:00 AM,Scheduled,Walk-in
+A8155,Deepa,9903574634,Miscellaneous,Pinky,24/10/2024,11:00 AM,No-show,Instagram
+A1239,Harini,9980115796,Facial,Poornima,24/10/2024,12:00 PM,Completed,WhatsApp
+A3186,Aishwarya,9245603475,Manicure,Malar,24/10/2024,3:00 PM,Scheduled,WhatsApp
+A2767,Ranjani,9909639125,Pedicure,Malar,24/10/2024,5:00 PM,Scheduled,Walk-in
+A9342,Deepa,9775342966,Facial,Anjali,25/10/2024,10:00 AM,No-show,WhatsApp
+A6542,Deepa,9527816207,Massage,Poornima,25/10/2024,11:00 AM,Scheduled,Walk-in
+A3145,Shruthi,9862510057,Facial,Anjali,25/10/2024,12:00 PM,Completed,Instagram
+A4592,Priya,9273180311,De-tan,Malar,25/10/2024,3:00 PM,Completed,Walk-in
+A4525,Sandhya,9771730323,Waxing,Suganya Sri,25/10/2024,5:00 PM,No-show,WhatsApp
+A9235,Aishwarya,9951451536,De-tan,Poornima,26/10/2024,10:00 AM,Completed,WhatsApp
+A4628,Swathi,9470730898,Hair Cut,Malar,26/10/2024,11:00 AM,Completed,WhatsApp
+A2610,Aishwarya,9147898907,Waxing,Suganya Sri,26/10/2024,12:00 PM,Scheduled,Walk-in
+A3102,Divya,9850228604,Massage,Suganya Sri,26/10/2024,3:00 PM,Scheduled,Walk-in
+A5387,Swathi,9133927947,De-tan,Poornima,26/10/2024,5:00 PM,Scheduled,Instagram
+A1101,Meena,9456103146,Pedicure,Malar,27/10/2024,10:00 AM,No-show,WhatsApp
+A6499,Sangeetha,9466106070,Facial,Anjali,27/10/2024,11:00 AM,Completed,WhatsApp
+A5515,Priya,9333167608,Bleaching,Suganya Sri,27/10/2024,12:00 PM,Scheduled,Instagram
+A7534,Anjali,9738367700,Miscellaneous,Pinky,27/10/2024,3:00 PM,No-show,Walk-in
+A5424,Meena,9669325768,Manicure,Pinky,27/10/2024,5:00 PM,No-show,WhatsApp
+A1257,Harini,9293959879,Massage,Poornima,28/10/2024,10:00 AM,Scheduled,WhatsApp
+A9780,Keerthana,9978477072,Manicure,Suganya Sri,28/10/2024,11:00 AM,No-show,Instagram
+A5415,Meena,9622554420,De-tan,Poornima,28/10/2024,12:00 PM,Completed,Walk-in
+A4723,Sangeetha,9668390528,De-tan,Anjali,28/10/2024,3:00 PM,Scheduled,Walk-in
+A7247,Shruthi,9547334526,Wash,Suganya Sri,28/10/2024,5:00 PM,Completed,WhatsApp
+A1185,Anjali,9939102599,Facial,Suganya Sri,29/10/2024,10:00 AM,Scheduled,WhatsApp
+A8151,Ranjani,9395462524,Miscellaneous,Pinky,29/10/2024,11:00 AM,Completed,Instagram
+A4029,Latha,9476034565,Wash,Pinky,29/10/2024,12:00 PM,Scheduled,WhatsApp
+A9575,Shruthi,9318075446,Bleaching,Anjali,29/10/2024,3:00 PM,Scheduled,Walk-in
+A7139,Soumya,9952594461,Massage,Malar,29/10/2024,5:00 PM,Scheduled,Walk-in
+A5310,Meena,9129676838,Waxing,Malar,30/10/2024,10:00 AM,Completed,Instagram
+A2931,Sandhya,9161635046,Bleaching,Poornima,30/10/2024,11:00 AM,No-show,Instagram
+A9647,Nisha,9382656290,Waxing,Poornima,30/10/2024,12:00 PM,Completed,WhatsApp
+A7601,Swathi,9719710968,Bleaching,Anjali,30/10/2024,3:00 PM,Completed,Walk-in
+A3786,Sandhya,9845547798,Bleaching,Suganya Sri,30/10/2024,5:00 PM,Scheduled,Walk-in
+A9657,Keerthana,9273927647,Manicure,Anjali,31/10/2024,10:00 AM,No-show,WhatsApp
+A9374,Sangeetha,9915903858,Threading,Suganya Sri,31/10/2024,11:00 AM,No-show,WhatsApp
+A4106,Priya,9194946580,Manicure,Suganya Sri,31/10/2024,12:00 PM,Completed,Walk-in
+A1268,Sangeetha,9173419960,Facial,Malar,31/10/2024,3:00 PM,Completed,WhatsApp
+A9275,Latha,9578790480,Hair Cut,Malar,31/10/2024,5:00 PM,No-show,WhatsApp
+A6374,Shruthi,9998564612,Miscellaneous,Poornima,01/11/2024,10:00 AM,No-show,WhatsApp
+A7388,Kavya,9614361199,Wash,Anjali,01/11/2024,11:00 AM,Completed,Walk-in
+A2349,Nisha,9204536380,Hair Cut,Poornima,01/11/2024,12:00 PM,Completed,Walk-in
+A3897,Aishwarya,9772118628,Threading,Malar,01/11/2024,3:00 PM,Completed,WhatsApp
+A1451,Anjali,9472494288,Hair Cut,Poornima,01/11/2024,5:00 PM,Scheduled,Walk-in
+A7444,Divya,9737668102,Facial,Malar,02/11/2024,10:00 AM,No-show,Walk-in
+A3673,Ranjani,9324444209,Hair Cut,Malar,02/11/2024,11:00 AM,Scheduled,WhatsApp
+A7969,Ranjani,9446894588,Manicure,Poornima,02/11/2024,12:00 PM,Scheduled,Instagram
+A6788,Nisha,9652901162,Waxing,Anjali,02/11/2024,3:00 PM,Completed,Walk-in
+A1294,Divya,9203793797,Pedicure,Poornima,02/11/2024,5:00 PM,No-show,Instagram
+A5532,Priya,9871635842,Bleaching,Pinky,03/11/2024,10:00 AM,Completed,Instagram
+A1829,Deepa,9810476300,Manicure,Malar,03/11/2024,11:00 AM,No-show,Instagram
+A6111,Latha,9162769362,Bleaching,Poornima,03/11/2024,12:00 PM,No-show,Walk-in
+A5137,Latha,9896394466,Threading,Poornima,03/11/2024,3:00 PM,No-show,WhatsApp
+A6594,Aishwarya,9622651893,Waxing,Pinky,03/11/2024,5:00 PM,Completed,Instagram
+A8135,Sangeetha,9776621669,Waxing,Suganya Sri,04/11/2024,10:00 AM,Scheduled,WhatsApp
+A9368,Kavya,9278803166,De-tan,Anjali,04/11/2024,11:00 AM,No-show,WhatsApp
+A6832,Harini,9230730615,Wash,Anjali,04/11/2024,12:00 PM,Completed,Walk-in
+A2874,Harini,9157989853,Manicure,Malar,04/11/2024,3:00 PM,Completed,Walk-in
+A7539,Meena,9350196211,Threading,Pinky,04/11/2024,5:00 PM,Scheduled,Instagram
+A1494,Meena,9417807446,Miscellaneous,Pinky,05/11/2024,10:00 AM,Scheduled,Instagram
+A3193,Harini,9445761523,Manicure,Pinky,05/11/2024,11:00 AM,Scheduled,Instagram
+A1413,Ranjani,9554524887,Threading,Pinky,05/11/2024,12:00 PM,No-show,WhatsApp
+A3970,Keerthana,9444487807,Wash,Pinky,05/11/2024,3:00 PM,Completed,Walk-in
+A3264,Meena,9134742039,De-tan,Anjali,05/11/2024,5:00 PM,Completed,WhatsApp
+A7429,Keerthana,9198266628,Manicure,Anjali,06/11/2024,10:00 AM,Scheduled,Instagram
+A3509,Priya,9708045179,Massage,Pinky,06/11/2024,11:00 AM,No-show,WhatsApp
+A6022,Keerthana,9749153231,Wash,Anjali,06/11/2024,12:00 PM,Scheduled,Walk-in
+A5736,Latha,9513073854,Waxing,Anjali,06/11/2024,3:00 PM,No-show,Instagram
+A9167,Priya,9399311198,Waxing,Suganya Sri,06/11/2024,5:00 PM,No-show,WhatsApp
+A4527,Soumya,9998066586,Massage,Anjali,07/11/2024,10:00 AM,Completed,Walk-in
+A1366,Sangeetha,9245135157,Waxing,Pinky,07/11/2024,11:00 AM,No-show,WhatsApp
+A9220,Divya,9505743594,Miscellaneous,Malar,07/11/2024,12:00 PM,Completed,Instagram
+A9241,Meena,9960002877,Miscellaneous,Malar,07/11/2024,3:00 PM,Completed,WhatsApp
+A5995,Aishwarya,9406388340,Threading,Pinky,07/11/2024,5:00 PM,No-show,Walk-in
+A3218,Soumya,9320378887,Hair Cut,Suganya Sri,08/11/2024,10:00 AM,Completed,Instagram
+A4999,Keerthana,9398336490,Waxing,Malar,08/11/2024,11:00 AM,Completed,Walk-in
+A4927,Deepa,9848594600,Massage,Malar,08/11/2024,12:00 PM,Scheduled,Instagram
+A5397,Deepa,9619364391,Bleaching,Malar,08/11/2024,3:00 PM,No-show,Instagram
+A2690,Anjali,9681323508,Waxing,Malar,08/11/2024,5:00 PM,Scheduled,Instagram
+A4146,Sangeetha,9673065041,Miscellaneous,Pinky,09/11/2024,10:00 AM,Scheduled,Walk-in
+A1929,Sandhya,9686139107,Bleaching,Poornima,09/11/2024,11:00 AM,Scheduled,Instagram
+A8844,Ranjani,9568376801,Waxing,Anjali,09/11/2024,12:00 PM,Completed,Walk-in
+A6547,Swathi,9918653572,Threading,Anjali,09/11/2024,3:00 PM,Completed,WhatsApp
+A9973,Kavya,9894064804,Facial,Malar,09/11/2024,5:00 PM,Completed,Instagram
+A9485,Divya,9773503006,Massage,Pinky,10/11/2024,10:00 AM,Completed,WhatsApp
+A9977,Kavya,9243930535,Waxing,Malar,10/11/2024,11:00 AM,Scheduled,WhatsApp
+A5605,Deepa,9571174974,De-tan,Poornima,10/11/2024,12:00 PM,No-show,Walk-in
+A9536,Harini,9948264432,Pedicure,Anjali,10/11/2024,3:00 PM,Scheduled,Walk-in
+A6823,Nisha,9765565153,Threading,Poornima,10/11/2024,5:00 PM,Scheduled,WhatsApp
+A9671,Anjali,9998592067,Facial,Poornima,11/11/2024,10:00 AM,Completed,Instagram
+A9985,Aishwarya,9274695125,Facial,Malar,11/11/2024,11:00 AM,Scheduled,Walk-in
+A7341,Nisha,9589306357,Bleaching,Malar,11/11/2024,12:00 PM,No-show,WhatsApp
+A2878,Harini,9602742915,Miscellaneous,Suganya Sri,11/11/2024,3:00 PM,No-show,Walk-in
+A5637,Nisha,9915356204,Manicure,Malar,11/11/2024,5:00 PM,Scheduled,Instagram
+A2408,Shruthi,9402963307,Waxing,Malar,12/11/2024,10:00 AM,Scheduled,WhatsApp
+A4667,Anjali,9402318509,Facial,Anjali,12/11/2024,11:00 AM,No-show,Instagram
+A6507,Nisha,9256194921,Hair Cut,Poornima,12/11/2024,12:00 PM,No-show,WhatsApp
+A6184,Anjali,9824170415,Threading,Anjali,12/11/2024,3:00 PM,Scheduled,Instagram
+A7760,Swathi,9217950672,Waxing,Poornima,12/11/2024,5:00 PM,Completed,WhatsApp
+A6026,Ranjani,9817569389,Waxing,Anjali,13/11/2024,10:00 AM,Completed,WhatsApp
+A1626,Sandhya,9463202459,Miscellaneous,Pinky,13/11/2024,11:00 AM,Scheduled,Walk-in
+A4777,Sangeetha,9564427393,Pedicure,Suganya Sri,13/11/2024,12:00 PM,Scheduled,WhatsApp
+A2594,Swathi,9167502775,Manicure,Malar,13/11/2024,3:00 PM,No-show,Instagram
+A9116,Latha,9746685480,Bleaching,Pinky,13/11/2024,5:00 PM,No-show,Walk-in
+A3921,Meena,9409585992,Threading,Poornima,14/11/2024,10:00 AM,No-show,WhatsApp
+A5983,Meena,9971021487,Hair Cut,Anjali,14/11/2024,11:00 AM,Scheduled,Walk-in
+A1344,Meena,9389435851,Manicure,Poornima,14/11/2024,12:00 PM,Scheduled,Instagram
+A4958,Shruthi,9522983147,De-tan,Poornima,14/11/2024,3:00 PM,No-show,WhatsApp
+A6892,Aishwarya,9393427840,Threading,Malar,14/11/2024,5:00 PM,Completed,Walk-in
+A1828,Keerthana,9786720714,Threading,Poornima,15/11/2024,10:00 AM,Completed,Walk-in
+A1779,Anjali,9247003449,Hair Cut,Poornima,15/11/2024,11:00 AM,Completed,Instagram
+A7906,Harini,9968434203,Pedicure,Anjali,15/11/2024,12:00 PM,Completed,Instagram
+A9938,Sangeetha,9788891476,Waxing,Suganya Sri,15/11/2024,3:00 PM,No-show,Instagram
+A7155,Sangeetha,9990436612,Manicure,Anjali,15/11/2024,5:00 PM,No-show,WhatsApp
+A3672,Meena,9827652074,Threading,Poornima,16/11/2024,10:00 AM,Scheduled,Walk-in
+A3595,Deepa,9221122376,Pedicure,Suganya Sri,16/11/2024,11:00 AM,Completed,Walk-in
+A4045,Anjali,9201715488,Miscellaneous,Poornima,16/11/2024,12:00 PM,Scheduled,Walk-in
+A7996,Divya,9280541264,Miscellaneous,Malar,16/11/2024,3:00 PM,Completed,Instagram
+A3982,Latha,9668343879,Pedicure,Anjali,16/11/2024,5:00 PM,No-show,WhatsApp
+A3103,Soumya,9704025705,Manicure,Pinky,17/11/2024,10:00 AM,Completed,Instagram
+A7417,Latha,9437878702,Miscellaneous,Malar,17/11/2024,11:00 AM,No-show,WhatsApp
+A7666,Soumya,9657208341,Bleaching,Suganya Sri,17/11/2024,12:00 PM,Scheduled,Walk-in
+A1803,Shruthi,9591126085,Manicure,Poornima,17/11/2024,3:00 PM,Scheduled,WhatsApp
+A2855,Kavya,9841500207,Waxing,Pinky,17/11/2024,5:00 PM,Scheduled,Walk-in
+A7449,Kavya,9821673477,Hair Cut,Anjali,18/11/2024,10:00 AM,No-show,WhatsApp
+A4814,Anjali,9297751458,Manicure,Malar,18/11/2024,11:00 AM,No-show,Instagram
+A9142,Latha,9213207372,Threading,Suganya Sri,18/11/2024,12:00 PM,No-show,WhatsApp
+A2745,Sangeetha,9454138904,Threading,Malar,18/11/2024,3:00 PM,No-show,Instagram
+A2289,Anjali,9703830253,Wash,Suganya Sri,18/11/2024,5:00 PM,No-show,Walk-in
+A3980,Meena,9686608486,Manicure,Pinky,19/11/2024,10:00 AM,No-show,WhatsApp
+A4712,Swathi,9320817637,Pedicure,Malar,19/11/2024,11:00 AM,Scheduled,Instagram
+A6786,Kavya,9240774078,Hair Cut,Suganya Sri,19/11/2024,12:00 PM,Completed,WhatsApp
+A8398,Shruthi,9470184037,De-tan,Anjali,19/11/2024,3:00 PM,No-show,WhatsApp
+A2221,Harini,9504945934,Miscellaneous,Pinky,19/11/2024,5:00 PM,Scheduled,Walk-in
