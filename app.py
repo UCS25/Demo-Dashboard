@@ -90,11 +90,11 @@ def kpi_box(title, value):
 # ============================================================================
 
 tabs = st.tabs([
-    "🏠 Home",
-    "🛠 Service Data",
-    "📦 Product Data",
-    "📅 Booking Management",
-    "👥 Staff Management"
+    "Home",
+    "Service Data",
+    "Product Data",
+    "Booking Management",
+    "Staff Management"
 ])
 
 # ============================================================================
@@ -205,11 +205,11 @@ with tabs[1]:
         month_sales = safe_value(sales, "month_sales")
         year_sales = safe_value(sales, "year_sales")
         col1, col2 = st.columns(2)
-        col1.metric("📅 Current Month Sales", f"₹{month_sales:,.2f}")
-        col2.metric("📆 Year-to-Date Sales", f"₹{year_sales:,.2f}")
+        col1.metric("Current Month Sales", f"₹{month_sales:,.2f}")
+        col2.metric("Year-to-Date Sales", f"₹{year_sales:,.2f}")
 
         st.divider()
-        st.subheader("💸 Incentive Table (1% of Total Bill)")
+        st.subheader(" Incentive Table (1% of Total Bill)")
         incentive_df = query.incentive_table(df).reset_index(drop=True)
         if not incentive_df.empty:
             incentive_df.index = incentive_df.index + 1
@@ -217,7 +217,7 @@ with tabs[1]:
         else:
             st.info("No incentive data available")
 
-        st.subheader("📊 Weekly Performance (Past 3 Months)")
+        st.subheader(" Weekly Performance (Past 3 Months)")
         month_options = ["All months"] + sorted(df.get("Month", pd.Series()).dropna().unique().tolist())
         selected_month = st.selectbox("Select Month", month_options)
         performance_df = query.performance_table(df, selected_month).reset_index(drop=True)
@@ -227,17 +227,17 @@ with tabs[1]:
         else:
             st.info("No performance data")
 
-        st.subheader("⏰ Peak Customer Arrival Times")
+        st.subheader("Peak Customer Arrival Times")
         plots.plot_peak_hours(query.peak_hours(df))
 
-        st.subheader("📅 Customer Visits by Weekday")
+        st.subheader("Customer Visits by Weekday")
         plots.plot_weekday_visit_counts(query.weekday_visit_counts(df))
 
-        st.subheader("💇‍♀️ Service Count by Type")
+        st.subheader("Service Count by Type")
         selected_month_service = st.selectbox("Select Month for Service Count", month_options, key="service_month")
         plots.plot_service_counts(query.service_count(df, selected_month_service))
 
-        st.subheader("💎 Top 20 Clients: Spending and Visits")
+        st.subheader("Top 20 Clients: Spending and Visits")
         top_clients_df = query.top_clients_spend_visits(df)
         if not top_clients_df.empty:
             top_clients_df.index = top_clients_df.index + 1
@@ -245,7 +245,7 @@ with tabs[1]:
         else:
             st.info("No top clients data")
 
-        st.subheader("📉 Least 20 Clients: Spending and Visits")
+        st.subheader("Least 20 Clients: Spending and Visits")
         least_clients_df = query.least_clients_spend_visits(df)
         if not least_clients_df.empty:
             least_clients_df.index = least_clients_df.index + 1
@@ -253,10 +253,10 @@ with tabs[1]:
         else:
             st.info("No least clients data")
 
-        st.subheader("📈 Customer Spend vs Visit Ratio")
+        st.subheader("Customer Spend vs Visit Ratio")
         plots.plot_spend_vs_visits(query.spend_vs_visits(df))
 
-        st.subheader("📆 Days Since Last Visit")
+        st.subheader("Days Since Last Visit")
         days_df = query.days_since_last_visit(df)
         if not days_df.empty:
             days_df.index = days_df.index + 1
@@ -266,7 +266,7 @@ with tabs[1]:
 
         plots.plot_employee_performance(query.employee_service_ranking(df), query.employee_revenue_ranking(df))
 
-        st.subheader("✨ Unique Service Counts")
+        st.subheader("Unique Service Counts")
         selected_month_unique = st.selectbox("Select Month for Unique Service", month_options, key="unique_month")
         unique_service_df = query.unique_service_counts(df, selected_month_unique)
         if not unique_service_df.empty:
@@ -301,7 +301,7 @@ with tabs[2]:
 # ============================================================================
 
 with tabs[3]:
-    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>📅 Booking Management</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>Booking Management</h1>", unsafe_allow_html=True)
     appointments_df = load_csv("appointments.csv")
     services_df = load_csv("services.csv")
     employees_df = load_csv("employees.csv")
@@ -323,7 +323,7 @@ with tabs[3]:
         st.info("No appointments data")
 
     st.divider()
-    st.markdown(f"<h3 style='color: {Colors.ROYAL_GOLD};'>📅 New Booking</h3>", unsafe_allow_html=True)
+    st.markdown(f"<h3 style='color: {Colors.ROYAL_GOLD};'>New Booking</h3>", unsafe_allow_html=True)
 
 
     def check_overlap(appts, employee, date, time_slot, duration, exclude_id=None):
