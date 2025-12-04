@@ -102,7 +102,7 @@ tabs = st.tabs([
 # ============================================================================
 
 with tabs[0]:
-    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>🏠 Home Dashboard</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>Home Dashboard</h1>", unsafe_allow_html=True)
 
     service_df = load_csv("service_data.csv")
     service_df = query.preprocess_data(service_df)
@@ -195,7 +195,7 @@ with tabs[0]:
 # ============================================================================
 
 with tabs[1]:
-    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>💇‍♀️ Service Data Dashboard</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>Service Data Dashboard</h1>", unsafe_allow_html=True)
     df = load_csv("service_data.csv")
     df = query.preprocess_data(df)
     if df.empty:
@@ -280,7 +280,7 @@ with tabs[1]:
 # ============================================================================
 
 with tabs[2]:
-    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>📦 Product Sales Insights</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>Product Sales Insights</h1>", unsafe_allow_html=True)
     pdf = load_csv("product_data.csv")
     pdf = query.preprocess_data(pdf)
     if pdf.empty:
@@ -460,7 +460,7 @@ with tabs[3]:
 # ============================================================================
 
 with tabs[4]:
-    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>👥 Staff Management</h1>", unsafe_allow_html=True)
+    st.markdown(f"<h1 style='color: {Colors.ROYAL_GOLD};'>Staff Management</h1>", unsafe_allow_html=True)
     staff_df = load_csv("staff.csv")
     leave_df = load_csv("leave_records.csv")
     attendance_df = load_csv("attendance.csv")
